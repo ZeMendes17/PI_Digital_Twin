@@ -1,9 +1,9 @@
 # PI_Digital_Twin
 Project for the Project in Informatics class
 
-## Equipa
+## Team
 
-| Nome           | **Email**            | NMEC   
+| Name           | **Email**            | NMEC   
 | -------------  | -------------------- | ----- 
 | Bernardo Pinto | bernardopinto@ua.pt  | 105926
 | Filipe Obrist  | filipe.obrist@ua.pt  | 107471 
