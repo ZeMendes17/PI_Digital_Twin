@@ -613,7 +613,7 @@ textarea {
   .main-footer__upper {
     display: flex;
     justify-content: space-between;
-    padding: 8rem 0; }
+    padding: 4rem 0; }
     @media only screen and (max-width: 56.25em) {
       .main-footer__upper {
         padding: 6rem 0; } }
@@ -702,3 +702,56 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+.table-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  border: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  color: #333;
+  font-size: 1.6rem;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  transition: color .3s;
+}
+.table td {
+  background-color: #f8f9fa;
+  color: #333;
+  font-size: 1.6rem;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  transition: color .3s;
+  text-align: center;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.btn.btn-download {
+  background-color: #28a745;
+  color: #fff;
+  padding: 6px 12px;
+}
+
+.btn.btn-download:hover {
+  background-color: #218838;
+}
