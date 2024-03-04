@@ -497,8 +497,7 @@ textarea {
   position: fixed;
   width: 100%;
   z-index: 1000;
-  background: #000;
-  background: #f1f0f0;
+  background: #dee2e6 ;
   box-shadow: 0 10px 100px rgba(0, 0, 0, 0.1); }
   .header__content {
     display: flex;
@@ -705,6 +704,7 @@ textarea {
 
 
 .table-container {
+  background-color: #f0f0f0;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -720,27 +720,30 @@ textarea {
   border: 1px solid #dee2e6;
 }
 
+/* Estilo para o cabeçalho da tabela */
 .table th {
-  background-color: #f8f9fa;
-  color: #333;
-  font-size: 1.6rem;
-  color: #333;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-  transition: color .3s;
+  background-color: #f8f9fa; /* Cor de fundo do cabeçalho */
+  color: #333; /* Cor do texto */
+  font-size: 1.6rem; /* Tamanho da fonte */
+  text-transform: uppercase; /* Transformação para maiúsculas */
+  letter-spacing: 1px; /* Espaçamento entre letras */
+  font-weight: 700; /* Peso da fonte (negrito) */
+  transition: color .3s; /* Transição suave de cor */
+  text-align: center; /* Alinhamento do texto */
 }
+
+/* Estilo para as células de dados da tabela */
 .table td {
-  background-color: #f8f9fa;
-  color: #333;
-  font-size: 1.6rem;
-  color: #333;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-  transition: color .3s;
-  text-align: center;
+  background-color: #f8f9fa; /* Cor de fundo das células de dados */
+  color: #333; /* Cor do texto menos destacada */
+  font-size: 1.6rem; /* Tamanho da fonte */
+  text-transform: none; /* Transformação para o formato original */
+  letter-spacing: normal; /* Espaçamento entre letras normal */
+  font-weight: 400; /* Peso da fonte (normal) */
+  transition: color .3s; /* Transição suave de cor */
+  text-align: center; /* Alinhamento do texto */
 }
+
 
 .table-striped tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
