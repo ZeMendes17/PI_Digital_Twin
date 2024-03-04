@@ -755,3 +755,17 @@ textarea {
 .btn.btn-download:hover {
   background-color: #218838;
 }
+
+.btn.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+  padding: 6px 12px;
+}
+
+.btn.btn-dark:hover {
+  background-color: #23272b;
+}
+
+.btn.btn-round {
+  border-radius: 50px;
+}
