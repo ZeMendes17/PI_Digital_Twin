@@ -27,6 +27,21 @@ def run():
     while True:
         traci.simulationStep()
 
+        # update all the vehicles on the road
+        for vehID in lista:
+            # see if the vehicle is still in the simulation
+            exists = traci.vehicle.getIDList().count(vehID)
+            if exists: # update the vehicle's position
+                print(lista[vehID])
+                traci.vehicle.moveToXY(vehID, lista[vehID], 0, 0, angle=0, keepRoute=1)
+                print(f"Veículo {vehID} existe no SUMO")
+            else: # add the vehicle to the simulation
+                traci.route.add("teste", [lista[vehID]])
+                traci.vehicle.add(vehID, "teste", typeID="veh_passenger", depart="now", departSpeed=0, departLane="best")
+                print(f"Veículo {vehID} adicionado no SUMO")
+
+
+                
 
 
      #   pos = traci.vehicle.getPosition(vehicle_list[0])
@@ -54,12 +69,20 @@ def run():
     sys.stdout.flush()
 
 
+# nao ta a ser usada
 def addOrUpdateCar(received):
 
     log, lat = received["data"]["location"]["lng"], received["data"]["location"]["lat"]
     vehID = received["vehicle"]
     x, y = traci.simulation.convertGeo(log, lat, True)
     nextEdge = traci.simulation.convertRoad(x, y)[0] # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
+
+    # add or update the vehicle
+    lista[vehID] = nextEdge
+    if vehID in lista:
+        print(f"Vehicle {vehID} already exists in the list")
+    else:
+        print(f"Vehicle {vehID} does not exist in the list")
 
     try:
 
@@ -80,6 +103,20 @@ def addOrUpdateCar(received):
         print(f"Veículo {received['vehicle']} adicionado no SUMO")
         print("rota", traci.vehicle.getRoute(vehID))
 
+def addOrUpdateCarToList(received):
+    log, lat = received["data"]["location"]["lng"], received["data"]["location"]["lat"]
+    vehID = received["vehicle"]
+    x, y = traci.simulation.convertGeo(log, lat, True)
+    nextEdge = traci.simulation.convertRoad(x, y)[0]  # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
+
+    # add or update the vehicle
+    if vehID in lista:
+        print(f"Vehicle {vehID} already exists in the list")
+    else:
+        print(f"Vehicle {vehID} does not exist in the list")
+
+    lista[vehID] = nextEdge
+
 
 def on_connect(client, userdata, flags, rc):
     print(f"Conectado ao broker com código de resultado {rc}")
@@ -92,10 +129,7 @@ def on_publish(client, userdata, mid):
 def on_message(client, userdata, msg):
     received = json.loads(msg.payload.decode())
     print(f"Received `{received}` from `{msg.topic}` topic")
-    addOrUpdateCar(received)
-
-
-
+    addOrUpdateCarToList(received)
 
 
 if __name__ == "__main__":

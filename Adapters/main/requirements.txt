@@ -1,0 +1,3 @@
+paho-mqtt==2.0.0
+sumolib==1.19.0
+traci==1.19.0
