@@ -24,25 +24,28 @@ global step
 def run():
     mqtt_client.subscribe("/teste")
 
+    step = 0
     while True:
+
+
+
+        if len(lista) > 0:
+            for key in lista.keys():
+                addOrUpdateCar({"vehicle": key, "data": lista[key]}) # para nao desregular os steps do sumo, a função addOrUpdateCar é chamada aqui
+
+
+
+
+
+
         traci.simulationStep()
 
-        # update all the vehicles on the road
-        for vehID in lista:
-            # see if the vehicle is still in the simulation
-            exists = traci.vehicle.getIDList().count(vehID)
-            if exists: # update the vehicle's position
-                print(lista[vehID])
-                traci.vehicle.moveToXY(vehID, lista[vehID], 0, 0, angle=0, keepRoute=1)
-                print(f"Veículo {vehID} existe no SUMO")
-            else: # add the vehicle to the simulation
-                traci.route.add("teste", [lista[vehID]])
-                traci.vehicle.add(vehID, "teste", typeID="veh_passenger", depart="now", departSpeed=0, departLane="best")
-                print(f"Veículo {vehID} adicionado no SUMO")
 
 
-                
 
+
+
+        step += 1
 
      #   pos = traci.vehicle.getPosition(vehicle_list[0])
      #   routeID = traci.vehicle.getRouteID(vehicle_list[0])
@@ -69,53 +72,33 @@ def run():
     sys.stdout.flush()
 
 
-# nao ta a ser usada
 def addOrUpdateCar(received):
-
     log, lat = received["data"]["location"]["lng"], received["data"]["location"]["lat"]
     vehID = received["vehicle"]
     x, y = traci.simulation.convertGeo(log, lat, True)
-    nextEdge = traci.simulation.convertRoad(x, y)[0] # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
+    nextEdge = traci.simulation.convertRoad(log,lat,True)[0] # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
+    allCars = traci.vehicle.getIDList()
+    print("nextEdge", nextEdge)
 
-    # add or update the vehicle
-    lista[vehID] = nextEdge
-    if vehID in lista:
-        print(f"Vehicle {vehID} already exists in the list")
-    else:
-        print(f"Vehicle {vehID} does not exist in the list")
+    if vehID in allCars: # Verifica se o veículo já existe
+        if traci.vehicle.getRoadID(vehID) == nextEdge or nextEdge.startswith(":cluster") or "_" in nextEdge: # Verifica se o veículo já está na aresta e desconsidera clusters e arestas de junção
+            traci.vehicle.setStop(vehID, edgeID=(traci.vehicle.getRoadID(vehID)), pos=traci.vehicle.getLanePosition(vehID), duration=300) # Para o veículo
+            print("parado", traci.vehicle.getRoadID(vehID))
 
-    try:
 
-        traci.vehicle.getPosition(vehID) # se o veículo não existir, vai dar erro e passa para o except
-        print(f"Veículo {received['vehicle']} existe no SUMO")
-        print("proxima aresta", nextEdge)
-        #oldRoute = traci.vehicle.getRoute(vehID) #rota é uma lista de arestas que o veículo vai passar
-        #print(f"Rota do veículo {received['vehicle']}:", oldRoute)
-        #updatedRoute = oldRoute.append(nextEdge) # adiciona a nova aresta na rota do veículo
-        #print(f"Rota atualizada do veículo {received['vehicle']}:", updatedRoute)
-        traci.vehicle.moveToXY(vehID, nextEdge, 0, 0, angle=0, keepRoute=1) # move o veículo para a nova aresta
+        else:
+            traci.vehicle.changeTarget(vehID, nextEdge)
+            if traci.vehicle.isStopped(vehID):  # Verifica se o veículo está parado
+                traci.vehicle.resume(vehID) # Libera o veículo
+            print("mudou", traci.vehicle.getRoute(vehID))
 
-    except:
-        print(f"Veículo {received['vehicle']} não existe no SUMO")
-        traci.route.add("teste", [nextEdge]) # adiciona a rota do veículo contendo apenas a próxima aresta
 
-        traci.vehicle.add(vehID, "teste", typeID="veh_passenger", depart="now", departSpeed=0, departLane="best")
-        print(f"Veículo {received['vehicle']} adicionado no SUMO")
-        print("rota", traci.vehicle.getRoute(vehID))
-
-def addOrUpdateCarToList(received):
-    log, lat = received["data"]["location"]["lng"], received["data"]["location"]["lat"]
-    vehID = received["vehicle"]
-    x, y = traci.simulation.convertGeo(log, lat, True)
-    nextEdge = traci.simulation.convertRoad(x, y)[0]  # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
-
-    # add or update the vehicle
-    if vehID in lista:
-        print(f"Vehicle {vehID} already exists in the list")
-    else:
-        print(f"Vehicle {vehID} does not exist in the list")
-
-    lista[vehID] = nextEdge
+    else: # Adiciona um novo veículo
+        traci.route.add(routeID=("route_" + vehID), edges=[nextEdge]) # adiciona uma rota para o veículo
+        traci.vehicle.add(vehID, routeID=("route_" + vehID), typeID="veh_passenger", depart="now", departSpeed=0, departLane="best",)
+        print(traci.vehicle.getRoute(vehID))
+        print("aq", traci.vehicle.getRoadID(vehID))
+        print("adicionado")
 
 
 def on_connect(client, userdata, flags, rc):
@@ -128,8 +111,11 @@ def on_publish(client, userdata, mid):
 
 def on_message(client, userdata, msg):
     received = json.loads(msg.payload.decode())
-    print(f"Received `{received}` from `{msg.topic}` topic")
-    addOrUpdateCarToList(received)
+    #print(f"Received `{received}` from `{msg.topic}` topic")
+    lista[received["vehicle"]] = received["data"]
+
+
+
 
 
 if __name__ == "__main__":
