@@ -78,18 +78,16 @@ def addOrUpdateCar(received):
     x, y = traci.simulation.convertGeo(log, lat, True)
     nextEdge = traci.simulation.convertRoad(log,lat,True)[0] # calcula a proxima aresta que o veículo vai passar de acordo com as coordenadas recebidas
     allCars = traci.vehicle.getIDList()
-    print("nextEdge", nextEdge)
+    print("next", nextEdge)
 
     if vehID in allCars: # Verifica se o veículo já existe
-        if traci.vehicle.getRoadID(vehID) == nextEdge or nextEdge.startswith(":cluster") or "_" in nextEdge: # Verifica se o veículo já está na aresta e desconsidera clusters e arestas de junção
-            traci.vehicle.setStop(vehID, edgeID=(traci.vehicle.getRoadID(vehID)), pos=traci.vehicle.getLanePosition(vehID), duration=300) # Para o veículo
-            print("parado", traci.vehicle.getRoadID(vehID))
+        print(traci.vehicle.getRoadID(vehID))
+        if traci.vehicle.getRoadID(vehID) == nextEdge or nextEdge.startswith(":cluster") or "_" in nextEdge:
+            traci.vehicle.moveToXY(vehID, nextEdge, 0, x, y, keepRoute=1) # se a proxima for a mesma, cluster ou de junção, move com moveTOXY
 
 
         else:
-            traci.vehicle.changeTarget(vehID, nextEdge)
-            if traci.vehicle.isStopped(vehID):  # Verifica se o veículo está parado
-                traci.vehicle.resume(vehID) # Libera o veículo
+            traci.vehicle.changeTarget(vehID, nextEdge) # se a proxima aresta for diferente, muda a rota
             print("mudou", traci.vehicle.getRoute(vehID))
 
 
