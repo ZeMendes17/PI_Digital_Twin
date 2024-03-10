@@ -36,13 +36,15 @@ def run():
 
 
 
-
-
         traci.simulationStep()
-
-
-
-
+        
+        # # get cars list in the simulation
+        # vehicle_list = traci.vehicle.getIDList()
+        
+        # for vehicle in vehicle_list:
+        #     x, y = traci.vehicle.getPosition(vehicle)
+        #     log, lat = traci.simulation.convertGeo(x, y)
+        #     print(f'{{"lat": {lat}, "lng": {log}}},')
 
 
         step += 1
@@ -132,8 +134,14 @@ if __name__ == "__main__":
     mqtt_client.loop_start()  # Inicia o loop de eventos MQTT em uma thread separada
 
     # Inicia o SUMO em uma thread separada
+    
+    # Aveiro sumo network
+    # sumo_thread = threading.Thread(target=traci.start, args=[
+    #     [sumoBinary, "-c", "../sumo_netWork/osm.sumocfg", "--tripinfo-output", "tripinfo.xml"]])
+
+    # Simple sumo network
     sumo_thread = threading.Thread(target=traci.start, args=[
-        [sumoBinary, "-c", "../sumo_netWork/osm.sumocfg", "--tripinfo-output", "tripinfo.xml"]])
+        [sumoBinary, "-c", "../simple_sumo_network/osm.sumocfg", "--tripinfo-output", "simple_tripinfo.xml"]])
     sumo_thread.start()
 
     # Executa a função run (controle do SUMO) após o início do SUMO
