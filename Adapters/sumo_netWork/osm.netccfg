@@ -11,6 +11,7 @@
     </input>
 
     <output>
+        <!-- <output-file value="teste.net.xml"/> teste do osmconvert -->
         <output-file value="osm.net.xml.gz"/>
         <output.street-names value="true"/>
         <output.original-names value="true"/>

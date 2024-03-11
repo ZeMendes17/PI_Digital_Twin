@@ -6,6 +6,7 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
 
     <input>
+       <!-- <net-file value="teste.net.xml"/> teste do netconvert -->
         <net-file value="osm.net.xml.gz"/>
         <osm-files value="osm_bbox.osm.xml.gz"/>
         <osm.keep-full-type value="true"/>
