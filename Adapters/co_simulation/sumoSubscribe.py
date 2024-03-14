@@ -95,7 +95,8 @@ def addOrUpdateCar(received):
 
     else: # Adiciona um novo veículo
         traci.route.add(routeID=("route_" + vehID), edges=[nextEdge]) # adiciona uma rota para o veículo
-        traci.vehicle.add(vehID, routeID=("route_" + vehID), typeID="veh_passenger", depart="now", departSpeed=0, departLane="best",)
+        print("definiu rota")
+        traci.vehicle.add(vehID, routeID=("route_" + vehID), typeID="vehicle.audi.a2", depart="now", departSpeed=0, departLane="best",)
         print(traci.vehicle.getRoute(vehID))
         print("aq", traci.vehicle.getRoadID(vehID))
         print("adicionado")
@@ -146,4 +147,6 @@ if __name__ == "__main__":
 
     # Executa a função run (controle do SUMO) após o início do SUMO
     sumo_thread.join()  # Aguarda até que o SUMO esteja pronto
+
+    
     run()

@@ -7,12 +7,13 @@
 
     <input>
         <!-- <net-file value="teste.net.xml"/> teste do netconvert -->
-        <net-file value="osm.net.xml.gz"/>
-        <route-files value="osm.passenger.trips.xml"/>
-        <additional-files value="osm.poly.xml.gz"/>
+        <net-file value="town4.net.xml"/>
+        <route-files value="carlavtypes.rou.xml,Town04.rou.xml"/>
+
+       <!-- <additional-files value="osm.poly.xml.gz"/>-->
     </input>
 
-    <processing>
+    <!-- <processing>
         <ignore-route-errors value="true"/>
     </processing>
 
@@ -25,7 +26,7 @@
         <verbose value="true"/>
         <duration-log.statistics value="true"/>
         <no-step-log value="true"/>
-    </report>
+    </report> -->
 
     <gui_only>
         <gui-settings-file value="osm.view.xml"/>

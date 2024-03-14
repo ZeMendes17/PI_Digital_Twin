@@ -7,6 +7,7 @@
 
     <input>
        <!-- <net-file value="teste.net.xml"/> teste do netconvert -->
+        <!-- <net-file value="ruadapega.net.xml"/> -->
         <net-file value="osm.net.xml.gz"/>
         <osm-files value="osm_bbox.osm.xml.gz"/>
         <osm.keep-full-type value="true"/>

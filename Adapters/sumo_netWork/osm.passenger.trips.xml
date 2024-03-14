@@ -55,8 +55,10 @@
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
     <vType id="veh_passenger" vClass="passenger"/>
-    <trip id="veh0" type="veh_passenger" depart="0.00" departLane="best" from="-34149770#4" to="172547669#1"/>
-    <trip id="veh1" type="veh_passenger" depart="57.86" departLane="best" departSpeed="max" from="539599342" to="152278360"/>
+     <vehicle id="87" type="veh_passenger" depart="10.00">
+        <route edges="-176509600#4 -176509600#3 -176509600#2"/>
+    </vehicle>
+   <!-- <trip id="veh1" type="veh_passenger" depart="57.86" departLane="best" departSpeed="max" from="539599342" to="152278360"/>
     <trip id="veh2" type="veh_passenger" depart="115.71" departLane="best" from="1092110082" to="556466050#3"/>
     <trip id="veh3" type="veh_passenger" depart="173.57" departLane="best" from="34149770#0" to="152278362#1"/>
     <trip id="veh8" type="veh_passenger" depart="462.84" departLane="best" from="-172547669#0" to="152278360"/>
@@ -105,5 +107,5 @@
     <trip id="veh59" type="veh_passenger" depart="3413.46" departLane="best" from="34149770#4" to="556466050#0"/>
     <trip id="veh60" type="veh_passenger" depart="3471.31" departLane="best" from="1092110084" to="372714708"/>
     <trip id="veh61" type="veh_passenger" depart="3529.17" departLane="best" from="-176509600#0" to="-135663878"/>
-    <trip id="veh62" type="veh_passenger" depart="3587.02" departLane="best" departSpeed="max" from="658633126" to="34149770#4"/>
+    <trip id="veh62" type="veh_passenger" depart="3587.02" departLane="best" departSpeed="max" from="658633126" to="34149770#4"/> -->
 </routes>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-02-29 13:57:21 by Eclipse SUMO sumo Version 1.19.0
+-->
+
+<configuration>
+  <input>
+    <net-file value="output.net.xml"/>
+    <route-files value="carlavtypes.rou.xml,ruadapega.rou.xml"/>
+  </input>
+  <gui_only>
+    <gui-settings-file value="ruadapega.view.xml"/>
+  </gui_only>
+  <num-clients value="1"/>
+</configuration>
