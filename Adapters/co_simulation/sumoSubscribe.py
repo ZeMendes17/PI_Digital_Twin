@@ -82,6 +82,23 @@ def addOrUpdateCar(received):
     allCars = traci.vehicle.getIDList()
     print("next", nextEdge)
 
+    if vehID in allCars: # Verifica se o veículo já existe
+        print(traci.vehicle.getRoadID(vehID))
+        if traci.vehicle.getRoadID(vehID) == nextEdge or nextEdge.startswith(":cluster") or "_" in nextEdge:
+            traci.vehicle.moveToXY(vehID, nextEdge, 0, x, y, keepRoute=1) # se a proxima for a mesma, cluster ou de junção, move com moveTOXY
+
+
+        else:
+            traci.vehicle.changeTarget(vehID, nextEdge) # se a proxima aresta for diferente, muda a rota
+            print("mudou", traci.vehicle.getRoute(vehID))
+
+
+    else: # Adiciona um novo veículo
+        traci.route.add(routeID=("route_" + vehID), edges=[nextEdge]) # adiciona uma rota para o veículo
+        traci.vehicle.add(vehID, routeID=("route_" + vehID), typeID="vehicle.audi.a2", depart="now", departSpeed=0, departLane="best",)
+        print(traci.vehicle.getRoute(vehID))
+        print("aq", traci.vehicle.getRoadID(vehID))
+        print("adicionado")
 
 
 def on_connect(client, userdata, flags, rc):
@@ -96,9 +113,6 @@ def on_message(client, userdata, msg):
     received = json.loads(msg.payload.decode())
     #print(f"Received `{received}` from `{msg.topic}` topic")
     lista[received["vehicle"]] = received["data"]
-
-
-
 
 
 if __name__ == "__main__":
