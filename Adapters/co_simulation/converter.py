@@ -6,7 +6,7 @@ os.environ['GDAL_DATA'] = '/us/share/gdal'
 
 
 # Read the .osm data
-f = open("ruadapega.osm", 'r')
+f = open("testUA/map_modified_for_Carla.osm", 'r')
 osm_data = f.read()
 f.close()
 
@@ -21,6 +21,6 @@ settings.set_osm_way_types(["motorway", "motorway_link", "trunk", "trunk_link", 
 xodr_data = carla.Osm2Odr.convert(osm_data, settings)
 
 # save opendrive file
-f = open("afterconvert.xodr", 'w')
+f = open("ua.xodr", 'w')
 f.write(xodr_data)
 f.close()
