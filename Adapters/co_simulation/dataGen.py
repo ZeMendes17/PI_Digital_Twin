@@ -94,6 +94,14 @@ if __name__ == "__main__":
         {"lat": 40.63312662962101, "lng": -8.661403882757115}
     ]
 
+    real = [
+        {"lat": 40.634805, "lng": -8.660470},
+        {"lat": 40.634963, "lng": -8.660352},
+        {"lat": 40.635009, "lng": -8.660323},
+        {"lat": 40.635168, "lng": -8.660207},
+        {"lat": 40.635319, "lng": -8.660101}
+    ]
+
     # For Aveiro Map
     # for coordenada in coordenadas:
 
@@ -110,7 +118,7 @@ if __name__ == "__main__":
 
 
     # For Simple Map
-    for coordenada in simple_coordenadas:
+    for coordenada in real:
         data = {
             "vehicle": "VEICULOTEST",
             "data": {
