@@ -34,7 +34,10 @@ def calculate_bearing(coord1, coord2):
     Angle Type '0':
         0deg - 90deg and 270deg - 360deg => The vehicle is moving in the North of the radar
         90deg - 180deg and 180deg - 270deg => The vehicle is moving in the South of the radar
-        
+    
+    Angle Type '1':
+        0deg - 180deg => The vehicle is moving in the East of the radar
+        180deg - 360deg => The vehicle is moving in the West of the radar
     """
 
     lat1 = radians(coord1[0])
