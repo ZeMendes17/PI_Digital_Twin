@@ -95,16 +95,16 @@ if __name__ == "__main__":
     ]
 
     real = [
-                {'lat': 40.63500948679511, 'lng': -8.660327237409504},
-                {'lat': 40.635002764957555, 'lng': -8.660330072663871},
-                {'lat': 40.63499497628642, 'lng': -8.660334161664197},
-                {'lat': 40.634989561909535, 'lng': -8.660339258588648},
-                {'lat': 40.63498382669651, 'lng': -8.660339668291709},
-                {'lat': 40.63497963957126, 'lng': -8.660345855080894},
-                {'lat': 40.63497414498534, 'lng': -8.660349780199997},
-                {'lat': 40.63496750335681, 'lng': -8.66035378725971},
-                {'lat': 40.63496192856186, 'lng': -8.660356540573467},
-                {'lat': 40.63495643397594, 'lng': -8.66036046569257}
+                {'lat': 40.63500948679511, 'lng': -8.660327237409504, 'heading': 154.70},
+                {'lat': 40.635002764957555, 'lng': -8.660330072663871, 'heading': 154.70},
+                {'lat': 40.63499497628642, 'lng': -8.660334161664197, 'heading': 154.70},
+                {'lat': 40.634989561909535, 'lng': -8.660339258588648, 'heading': 154.70},
+                {'lat': 40.63498382669651, 'lng': -8.660339668291709, 'heading': 154.70},
+                {'lat': 40.63497963957126, 'lng': -8.660345855080894, 'heading': 154.70},
+                {'lat': 40.63497414498534, 'lng': -8.660349780199997, 'heading': 154.70},
+                {'lat': 40.63496750335681, 'lng': -8.66035378725971, 'heading': 154.70},
+                {'lat': 40.63496192856186, 'lng': -8.660356540573467, 'heading': 154.70},
+                {'lat': 40.63495643397594, 'lng': -8.66036046569257, 'heading': 154.70}
             ]
     
     real2 = [
@@ -126,17 +126,171 @@ if __name__ == "__main__":
     #         }
     #     }
 
+    realreal = [
+{'acceleration': 0.15270089711777002,
+ 'classification': 5,
+ 'cloudPersist': True,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.635271093252236,
+ 'length': 4.6000000000000005,
+ 'longitude': -8.660141339184497,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.5,
+ 'test': {},
+ 'timestamp': 1710954012.654875},
+
+
+{'acceleration': 0.0,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63527781508979,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.66013850393013,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.5,
+ 'test': {},
+ 'timestamp': 1710954012.729859},
+
+
+{'acceleration': 0.12423687499534289,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.635284456718324,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660134496870414,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.600000000000001,
+ 'test': {},
+ 'timestamp': 1710954012.804914},
+
+
+{'acceleration': 0.0,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.635289951304244,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660130571751312,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.600000000000001,
+ 'test': {},
+ 'timestamp': 1710954012.879831},
+
+
+{'acceleration': 0.10472925915569328,
+ 'classification': 5,
+ 'cloudPersist': True,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63529536568113,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660125474826861,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.700000000000001,
+ 'test': {},
+ 'timestamp': 1710954012.954843},
+
+
+{'acceleration': 0.0,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63530192710063,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.6601202959618,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.700000000000001,
+ 'test': {},
+ 'timestamp': 1710954013.02986},
+
+
+{'acceleration': 0.0,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63530750189558,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660117542648045,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.700000000000001,
+ 'test': {},
+ 'timestamp': 1710954013.104894},
+
+
+{'acceleration': 0.5537067901063651,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63531422373314,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660114707393678,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.8,
+ 'test': {},
+ 'timestamp': 1710954013.180601},
+
+
+{'acceleration': 0.39263880763446757,
+ 'classification': 5,
+ 'cloudPersist': True,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.63532086536166,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660110700333963,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.9,
+ 'test': {},
+ 'timestamp': 1710954013.254687},
+
+
+{'acceleration': 0.0,
+ 'classification': 5,
+ 'cloudPersist': False,
+ 'confidence': 100,
+ 'heading': -25.311,
+ 'latitude': 40.635327506990194,
+ 'length': 5.6000000000000005,
+ 'longitude': -8.660106693274248,
+ 'objectID': 1015,
+ 'receiverID': 1,
+ 'speed': 10.9,
+ 'test': {},
+ 'timestamp': 1710954013.329629}
+
+
+    ]
+
 
     # For Simple Map
-    for coordenada in real:
+    for coordenada in realreal:
         data = {
-            "vehicle": "VEICULOTEST",
+            "vehicle": str(coordenada["objectID"]),
             "data": {
                 "location": {
-                    "lat": coordenada["lat"],
-                    "lng": coordenada["lng"]
+                    "lat": coordenada["latitude"],
+                    "lng": coordenada["longitude"]
                 },
-                "speed": 43
+                "heading": coordenada["heading"],
+                "speed": coordenada["speed"]
             }
         }
 

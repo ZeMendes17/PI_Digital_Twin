@@ -6,7 +6,7 @@ os.environ['GDAL_DATA'] = '/us/share/gdal'
 
 
 # Read the .osm data
-f = open("testUA/map_modified_for_Carla.osm", 'r')
+f = open("testUA/map_modified_for_Carla.osm", 'r') # change file, this one does not exist anymore
 osm_data = f.read()
 f.close()
 

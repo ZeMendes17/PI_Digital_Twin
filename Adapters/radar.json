@@ -1,8 +1,14 @@
 [
     {
-        "id": 1,
-        "latitude": 40.63476,
-        "longitude": -8.66038,
-        "angle_type": 0
+        "id": "p1",
+        "angle_type": 0,
+        "coord": {
+            "lat": 40.63476,
+            "lng": -8.66038
+        },
+        "lanes": {
+            "far": -514,
+            "near": -462
+        }
     }
 ]
