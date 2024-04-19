@@ -1,0 +1,3171 @@
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<bounds minlat="40.6226827" minlon="-8.6636639" maxlat="40.6396186" maxlon="-8.6453819" />
+	<node id="356803033" lat="0.0036910411055996227" lon="-0.0006932384875666135" version="3" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="356803042" lat="0.0035178788548269114" lon="-0.0005683848368901139" version="5" timestamp="2019-07-07T11:35:01Z" changeset="71979688" uid="5005031" user="Tiago Águeda" />
+	<node id="385011776" lat="-0.0002642200200676278" lon="-0.004731513380054685" version="2" timestamp="2011-09-23T21:09:13Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385011810" lat="0.0038111784837144957" lon="-0.0022324557025131635" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385011812" lat="0.002263486697280044" lon="-0.0007019925496283046" version="4" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013706" lat="0.0017547916065433675" lon="-0.0002098584195234004" version="4" timestamp="2011-10-31T17:54:48Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="385013741" lat="0.001898078090930281" lon="-0.0004926323715372198" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013742" lat="0.0018599090708844301" lon="-0.0005373172646538024" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013743" lat="0.0015946232105420594" lon="-0.0006709937884182411" version="4" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="385013744" lat="0.0014985005623364247" lon="-0.0006902973922641351" version="2" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013745" lat="0.0014119694253448638" lon="-0.0006302624340407326" version="2" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013746" lat="0.0013879884067992717" lon="-0.0006012326559801947" version="4" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013747" lat="0.0014530341131676963" lon="-0.00028942581638186977" version="2" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013748" lat="0.0015394644658379524" lon="-0.00021806651130465172" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013749" lat="0.0018069498768398268" lon="-0.00024884333135899125" version="4" timestamp="2011-10-31T17:54:48Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="385013750" lat="0.0018916823319466464" lon="-0.00035166317268950885" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="385013751" lat="0.0019123661290559365" lon="-0.0004204377962280257" version="3" timestamp="2011-09-23T21:09:14Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="390064447" lat="0.00036411538990035336" lon="-0.0010161796582261477" version="6" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="390064448" lat="0.0008055600318668436" lon="-0.0009518048267073126" version="7" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="390064500" lat="0.004583511342265841" lon="-0.003460750879438899" version="3" timestamp="2011-11-02T15:41:22Z" changeset="9723076" uid="291378" user="Micael Dias" />
+	<node id="390067138" lat="-0.0025126433313213802" lon="0.002269830117219747" version="5" timestamp="2017-11-05T12:45:13Z" changeset="53527029" uid="5005031" user="Tiago Águeda" />
+	<node id="390067351" lat="-0.0020052102626036974" lon="0.0032530831270008265" version="5" timestamp="2017-11-05T12:45:12Z" changeset="53527029" uid="5005031" user="Tiago Águeda" />
+	<node id="391284648" lat="0.001068566817270995" lon="-0.00407869698936461" version="4" timestamp="2012-02-27T23:31:46Z" changeset="10810065" uid="602999" user="rtafav2" />
+	<node id="392954326" lat="0.0053349039867585935" lon="0.0033692957239679607" version="6" timestamp="2017-11-19T11:15:55Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="392954328" lat="0.005153155622139696" lon="0.0034835185927146613" version="7" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="402743291" lat="-0.0013015669271592258" lon="0.005005938820025875" version="5" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="402744122" lat="-0.0006727800190598354" lon="0.004896683970639593" version="3" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="402744124" lat="-0.0004977296575995854" lon="0.0047715802507869234" version="6" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744127" lat="-0.00033876234486521033" lon="0.004700663972159498" version="6" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744128" lat="-0.0003065838228213151" lon="0.0047621430420954685" version="6" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744130" lat="-0.00031906952735767105" lon="0.004821573358562641" version="6" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744131" lat="-0.0003645301154208293" lon="0.004861626925691771" version="7" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744134" lat="-0.0004807392599653135" lon="0.004827740745948836" version="6" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="402744299" lat="-0.00014400758981919826" lon="0.004856139169094756" version="7" timestamp="2022-10-15T13:20:47Z" changeset="127570975" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="marked" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+	</node>
+	<node id="402744302" lat="0.000501370789799555" lon="0.004808595010992912" version="3" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="458580412" lat="0.004727060334315032" lon="0.0026820638323564808" version="7" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="458580443" lat="0.004131615885411649" lon="0.002060703866652737" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="534789258" lat="-0.0012884651002639273" lon="-0.00016160934552374623" version="4" timestamp="2017-11-07T13:15:21Z" changeset="53581371" uid="5005031" user="Tiago Águeda" />
+	<node id="534789259" lat="0.0003594175069695938" lon="-0.0009010458783646025" version="4" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="534789260" lat="0.0007488043663177958" lon="-0.0008613709889007689" version="4" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="534823201" lat="-0.0013063928862931601" lon="0.004591219010393705" version="3" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="534823202" lat="-0.001293481120527163" lon="0.004902277192463893" version="5" timestamp="2018-05-01T14:35:02Z" changeset="58586014" uid="763799" user="M!dgard">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals:direction" v="forward" />
+	</node>
+	<node id="689479576" lat="-0.0008823321881352931" lon="-0.00281224395405785" version="2" timestamp="2011-09-23T21:09:18Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479578" lat="-0.0011216430304720525" lon="-0.002739296285399197" version="2" timestamp="2011-09-23T21:09:18Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479579" lat="-0.0013003034212619186" lon="-0.002643090346419625" version="2" timestamp="2011-09-23T21:09:18Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479583" lat="-0.0017500583363111526" lon="-0.0021977578514795707" version="2" timestamp="2011-09-23T21:09:18Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479604" lat="-0.0004902472474016806" lon="-0.0028076676762020455" version="2" timestamp="2011-09-23T21:09:19Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479606" lat="-0.0007206612962192454" lon="-0.0028294125253235268" version="2" timestamp="2011-09-23T21:09:19Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="689479626" lat="0.002792369786509038" lon="-0.0012229202591456185" version="5" timestamp="2017-07-12T16:14:36Z" changeset="50234668" uid="5005031" user="Tiago Águeda" />
+	<node id="689479797" lat="0.0014447434680455362" lon="-0.0006662836180544141" version="3" timestamp="2012-10-12T00:02:26Z" changeset="13461245" uid="88202" user="ruben leote" />
+	<node id="689479803" lat="0.0017752774783168221" lon="-0.000593933723028034" version="3" timestamp="2012-10-12T00:02:26Z" changeset="13461245" uid="88202" user="ruben leote" />
+	<node id="701005198" lat="0.0032020409284396374" lon="0.0012157694630819738" version="4" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda" />
+	<node id="701015399" lat="0.0022818998614545266" lon="0.002054225320364213" version="3" timestamp="2017-11-19T11:15:53Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="701143519" lat="0.005068301762748367" lon="0.0030351024855843267" version="5" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="701187186" lat="0.004275904111141941" lon="0.0021855534569365756" version="5" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433108" lat="-0.001781277681475125" lon="0.005058185556157908" version="3" timestamp="2021-07-14T17:12:41Z" changeset="107993883" uid="10983239" user="HedgiePT" />
+	<node id="1406433175" lat="0.0034774365681150064" lon="0.004126881455876323" version="3" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433333" lat="-6.68411494864001e-05" lon="0.005231707909885526" version="1" timestamp="2011-08-20T21:51:06Z" changeset="9078796" uid="366953" user="p_mendes" />
+	<node id="1406433375" lat="-0.0003199758519848609" lon="0.004723005687190605" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433447" lat="-0.0004936308385789558" lon="0.00480099076291667" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433459" lat="-0.0003385521646451118" lon="0.0048452857421535595" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433539" lat="-0.00019227070681350386" lon="0.0048303798319996715" version="1" timestamp="2011-08-20T21:51:10Z" changeset="9078796" uid="366953" user="p_mendes" />
+	<node id="1406433574" lat="-0.00040529683071192593" lon="0.004869153569095301" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433674" lat="-0.00014299329936963724" lon="0.0050593537689553" version="2" timestamp="2017-11-04T09:37:12Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433704" lat="0.002645391691043865" lon="0.0039194708889749305" version="4" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433868" lat="-0.000492735749123268" lon="0.004742397081971411" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433869" lat="-0.0006330000112047404" lon="0.005056882881862313" version="2" timestamp="2017-11-04T09:37:12Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433876" lat="-0.0004651608297410074" lon="0.004700900834230723" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406433879" lat="-0.0004987982027892228" lon="0.005181659684907" version="2" timestamp="2017-11-04T09:37:12Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433895" lat="0.003969145711355023" lon="0.0041852128930762325" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1406433926" lat="0.0022989146361748797" lon="0.004620685415239093" version="4" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler" />
+	<node id="1406433949" lat="-0.0003633437075179296" lon="0.004685010364445564" version="4" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="1406434181" lat="-0.0008056692549993821" lon="0.0049514877139190654" version="3" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1406434188" lat="0.0037058076605174695" lon="0.004927064666760516" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1406434239" lat="0.00370626516000637" lon="0.004319279463745386" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1406434277" lat="-0.0010646502349383627" lon="0.005097954154785885" version="5" timestamp="2017-11-04T09:37:11Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1406434326" lat="0.0003272237609722565" lon="0.004987730035938178" version="2" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502513" lat="-0.002771371232016212" lon="0.0006173058890928353" version="2" timestamp="2017-11-07T08:50:21Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502514" lat="-0.0026650303481494126" lon="0.001972905729966203" version="3" timestamp="2017-11-05T17:08:52Z" changeset="53533901" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502517" lat="-0.0025178504095143624" lon="0.0019104300469370665" version="2" timestamp="2011-11-02T16:24:29Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1443502520" lat="-0.00244610829263539" lon="0.0019017641003265036" version="2" timestamp="2011-11-02T16:24:29Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1443502525" lat="-0.002360276978707397" lon="0.0019111095435653533" version="1" timestamp="2011-09-23T21:08:39Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502531" lat="-0.002283837677895344" lon="0.0019356550203021188" version="1" timestamp="2011-09-23T21:08:39Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502540" lat="-0.002211894257451931" lon="0.001977072319319768" version="1" timestamp="2011-09-23T21:08:39Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502547" lat="-0.002158335854899838" lon="0.002024645986106981" version="1" timestamp="2011-09-23T21:08:40Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502554" lat="-0.0020695087274747287" lon="0.00197402816832107" version="1" timestamp="2011-09-23T21:08:40Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502559" lat="-0.0018222988013820952" lon="-0.0022430552785906092" version="7" timestamp="2022-10-20T10:10:50Z" changeset="127830173" uid="17417493" user="miguelovila">
+		<tag k="access" v="yes" />
+		<tag k="amenity" v="bicycle_parking" />
+		<tag k="bicycle_parking" v="shed" />
+		<tag k="capacity" v="8" />
+		<tag k="covered" v="yes" />
+		<tag k="fee" v="no" />
+	</node>
+	<node id="1443502561" lat="-0.0017307099416409822" lon="0.00013782294067210765" version="2" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502575" lat="-0.0010105881903214745" lon="-0.0001931476358083065" version="1" timestamp="2011-09-23T21:08:41Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502579" lat="-0.0005640460143027174" lon="-0.0003766030799456998" version="2" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="1443502582" lat="-0.0005272746733718479" lon="-0.0005077736045144137" version="3" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502583" lat="-0.0005095896641300339" lon="-0.000390586208375099" version="2" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502584" lat="-0.0004871989992536444" lon="0.0011427274169865497" version="1" timestamp="2011-09-23T21:08:41Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502602" lat="-0.00019603522523245197" lon="0.0009913372783978646" version="2" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502604" lat="-0.0002064327915786493" lon="0.0004400582161952741" version="2" timestamp="2017-11-07T08:50:20Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502626" lat="-4.455855337851453e-05" lon="0.0008695888038753565" version="3" timestamp="2019-07-07T13:59:47Z" changeset="71983126" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502706" lat="0.0004673311921676621" lon="-0.0009248311178310189" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502709" lat="0.00046883164425409567" lon="-0.0010374568981925182" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502732" lat="0.000592930336284051" lon="-0.0009234614612645553" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502739" lat="0.0006208094825849878" lon="-0.0010279550883725062" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502757" lat="0.0006800600435323701" lon="-0.0008983817192975252" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502759" lat="0.0007169318983860802" lon="-0.001000671215706325" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502795" lat="0.0012125295294703993" lon="-0.0006314802304992144" version="3" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502797" lat="0.0013709008209623118" lon="-0.0004333603103604248" version="3" timestamp="2022-04-26T08:09:53Z" changeset="120199295" uid="12658" user="laborim" />
+	<node id="1443502799" lat="0.001374198760428297" lon="-0.0005158146359933065" version="1" timestamp="2011-09-23T21:08:46Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502827" lat="0.001931850072332659" lon="-0.0003477112656058133" version="1" timestamp="2011-09-23T21:08:48Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502828" lat="0.0019731178408771677" lon="-0.0004895160610401614" version="1" timestamp="2011-09-23T21:08:48Z" changeset="9380107" uid="232498" user="geospot_mike" />
+	<node id="1443502829" lat="0.002010787174131857" lon="-0.00042636471562016516" version="2" timestamp="2017-11-10T09:11:27Z" changeset="53661039" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502831" lat="0.0020306717401180636" lon="-0.0005018266756392594" version="2" timestamp="2017-11-10T09:11:27Z" changeset="53661039" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502833" lat="0.0020850280794512638" lon="-0.0004971146413809321" version="2" timestamp="2017-11-10T09:11:27Z" changeset="53661039" uid="5005031" user="Tiago Águeda" />
+	<node id="1443502834" lat="0.0021052121925665295" lon="-0.0005373912905414192" version="6" timestamp="2022-10-20T10:04:27Z" changeset="127824908" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="marked" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+	</node>
+	<node id="1443502835" lat="0.002520878089258277" lon="0.00046899381535986726" version="2" timestamp="2011-10-31T17:54:48Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="1487572477" lat="0.001668460767854302" lon="-0.00016281812182347355" version="1" timestamp="2011-10-31T17:54:33Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="1487572481" lat="0.002449436005324652" lon="0.0005456718275366755" version="1" timestamp="2011-10-31T17:54:33Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="1487572489" lat="0.0028690038493491598" lon="0.0009502556396372465" version="1" timestamp="2011-10-31T17:54:34Z" changeset="9705886" uid="291378" user="Micael Dias" />
+	<node id="1487572491" lat="0.0029330516959410343" lon="0.0008953877696972478" version="2" timestamp="2017-11-05T20:50:01Z" changeset="53539384" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572492" lat="0.0031396925603865058" lon="0.0013008065230784769" version="3" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals" v="signal" />
+		<tag k="traffic_signals:direction" v="forward" />
+	</node>
+	<node id="1487572496" lat="0.003751415593385478" lon="0.00188107025908058" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572497" lat="0.003974438398690556" lon="0.0019414015152452628" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="1487572498" lat="0.0038991009584934534" lon="0.002012912100540327" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572506" lat="0.00463283956827774" lon="0.0027715091215935296" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572508" lat="0.00466691238280434" lon="0.002775003299968607" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572510" lat="0.0047000850209587535" lon="0.002756840072541432" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487572514" lat="0.004723164775001028" lon="0.0027145881320521457" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="1487604363" lat="0.003899498976704646" lon="0.001957058024112522" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604371" lat="0.004041488953131182" lon="0.0020853279712418227" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604372" lat="0.004106636616063688" lon="0.002082970200279002" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604375" lat="0.004231742275305632" lon="0.0022675497778770455" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604378" lat="0.00426051821816362" lon="0.002238748019423672" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604379" lat="0.00464512712061065" lon="0.0027084360179498146" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604382" lat="0.004669406747727758" lon="0.0026862456491423686" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604397" lat="0.005263767114635548" lon="0.0034874643386030675" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487604399" lat="0.0053082300058506435" lon="0.003459649563771041" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627536" lat="0.000553461010491319" lon="0.0037492869067296646" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627539" lat="0.0010901827967096044" lon="0.004591510693068432" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627547" lat="0.0028565591208015648" lon="0.002635023017664808" version="2" timestamp="2017-11-19T11:15:53Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627551" lat="0.0031816628430512204" lon="0.0014900276277879567" version="10" timestamp="2022-11-29T13:57:06Z" changeset="129522946" uid="17417493" user="miguelovila">
+		<tag k="button_operated" v="no" />
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="crossing:island" v="no" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+		<tag k="traffic_signals:sound" v="yes" />
+		<tag k="traffic_signals:vibration" v="no" />
+	</node>
+	<node id="1487627554" lat="0.003317010100214676" lon="0.003109730582639016" version="2" timestamp="2017-11-19T11:15:53Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627559" lat="0.0033834177201968615" lon="0.0021108059533665796" version="2" timestamp="2017-11-19T11:15:53Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627569" lat="0.003636023784720759" lon="0.002370843380223237" version="2" timestamp="2017-11-19T11:15:53Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1487627577" lat="0.004007264974827619" lon="0.0032903310452571523" version="3" timestamp="2016-05-03T10:36:31Z" changeset="39063351" uid="2678365" user="zermes" />
+	<node id="1489449140" lat="-0.0017671805221923219" lon="0.0051688380966084585" version="3" timestamp="2021-07-14T17:12:41Z" changeset="107993883" uid="10983239" user="HedgiePT" />
+	<node id="1489449144" lat="-0.0012890972321323376" lon="0.004727861891705412" version="2" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449147" lat="-0.0006717772472101866" lon="0.004945170054863083" version="2" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449148" lat="-0.0005669711170914466" lon="0.004812471566216098" version="2" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449149" lat="-0.00047803500934318337" lon="0.0049156689553759205" version="2" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449151" lat="-0.00030209640896130597" lon="0.004634620272866514" version="1" timestamp="2011-11-02T11:58:30Z" changeset="9721182" uid="291378" user="Micael Dias" />
+	<node id="1489449152" lat="-0.00027440810967702" lon="0.004783799802702929" version="1" timestamp="2011-11-02T11:58:30Z" changeset="9721182" uid="291378" user="Micael Dias" />
+	<node id="1489449154" lat="-0.00020355892993599407" lon="0.004867694967322371" version="4" timestamp="2018-01-28T15:18:39Z" changeset="55831882" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449155" lat="0.00035309062302022734" lon="0.004819473078046586" version="2" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1489449160" lat="0.0021946890629506166" lon="0.004485651518110976" version="3" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler" />
+	<node id="1489464499" lat="-0.002407320646046962" lon="0.0024750240663916454" version="5" timestamp="2018-02-17T04:14:08Z" changeset="56431133" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="R. Bombeiros Velhos" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="1489464502" lat="-0.0014954656046570983" lon="0.004219069537125357" version="2" timestamp="2017-11-04T09:37:12Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1489609692" lat="-0.00029658356109764063" lon="0.004876897327440088" version="1" timestamp="2011-11-02T15:18:39Z" changeset="9722901" uid="291378" user="Micael Dias" />
+	<node id="1489637970" lat="0.002152272457343303" lon="0.000162892939517109" version="1" timestamp="2011-11-02T15:41:00Z" changeset="9723076" uid="291378" user="Micael Dias" />
+	<node id="1489637990" lat="0.0030670385617261454" lon="-0.00022801660324205824" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1489637992" lat="0.00320312983839031" lon="-0.00033972543022317634" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1489637999" lat="0.0033360239577816756" lon="-0.0004641245828890468" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1489638015" lat="0.003579829405616745" lon="-0.0005975653493428962" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1489638033" lat="0.004477288315817494" lon="-0.0032982870355203653" version="1" timestamp="2011-11-02T15:41:03Z" changeset="9723076" uid="291378" user="Micael Dias" />
+	<node id="1489672240" lat="-0.0021689572223029183" lon="0.00033215280047637627" version="2" timestamp="2017-11-07T08:50:21Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1489672242" lat="-0.001536444776503088" lon="0.0016874996475126373" version="2" timestamp="2017-11-07T08:50:21Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1489672245" lat="-0.0013344095151377664" lon="0.001587025381630504" version="2" timestamp="2017-11-07T08:50:21Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1489672247" lat="-0.0012239680524111427" lon="0.004459053292647578" version="2" timestamp="2013-04-19T18:00:44Z" changeset="15788409" uid="44221" user="dcp">
+		<tag k="noexit" v="yes" />
+	</node>
+	<node id="1489672248" lat="-0.0011869295728285532" lon="0.0015179399812672645" version="2" timestamp="2017-11-07T08:50:21Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="1489672249" lat="-0.0011883858123831533" lon="0.002825936390762938" version="1" timestamp="2011-11-02T16:23:00Z" changeset="9723416" uid="291378" user="Micael Dias" />
+	<node id="1489672250" lat="-0.0011734398737302334" lon="0.001541194965841259" version="1" timestamp="2011-11-02T16:23:00Z" changeset="9723416" uid="291378" user="Micael Dias" />
+	<node id="1489672251" lat="-0.0011621470667172557" lon="0.0016203842759689282" version="1" timestamp="2011-11-02T16:23:00Z" changeset="9723416" uid="291378" user="Micael Dias" />
+	<node id="1489672386" lat="-0.0020392335356817742" lon="0.001957459567414937" version="1" timestamp="2011-11-02T16:23:39Z" changeset="9723425" uid="291378" user="Micael Dias" />
+	<node id="1489672387" lat="-0.0015879061461840749" lon="0.0015769996324837114" version="1" timestamp="2011-11-02T16:23:39Z" changeset="9723425" uid="291378" user="Micael Dias" />
+	<node id="1489673926" lat="-0.002338670368825967" lon="0.0026172156642562568" version="2" timestamp="2017-11-05T12:45:13Z" changeset="53527029" uid="5005031" user="Tiago Águeda" />
+	<node id="1489673928" lat="-0.002180601603312716" lon="0.002506479201276975" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489673931" lat="-0.002131243718836642" lon="0.002439978432396265" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489673936" lat="-0.0020974808113996255" lon="0.0021501940473482675" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489673949" lat="-0.0020931771960498546" lon="0.002359418397649177" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489673952" lat="-0.002083387376655276" lon="0.002292995177289184" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489673955" lat="-0.0020833898604624957" lon="0.0022195044215511995" version="1" timestamp="2011-11-02T16:24:28Z" changeset="9723433" uid="291378" user="Micael Dias" />
+	<node id="1489676706" lat="-0.001316642248374156" lon="-0.0002357833084554978" version="1" timestamp="2011-11-02T16:28:18Z" changeset="9723477" uid="291378" user="Micael Dias" />
+	<node id="1577958771" lat="-0.0020236718794201833" lon="0.0006196549557480162" version="1" timestamp="2012-01-05T11:20:39Z" changeset="10299616" uid="334305" user="El Muto" />
+	<node id="1594974874" lat="-0.0011037183467997463" lon="0.005104644917555427" version="3" timestamp="2017-11-04T09:37:12Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="1598129962" lat="0.0018736176208388083" lon="-0.0017020046189756635" version="1" timestamp="2012-01-19T21:10:20Z" changeset="10441183" uid="590490" user="Parakedista" />
+	<node id="1598129963" lat="0.0015726525156407494" lon="-0.0014166526771251127" version="1" timestamp="2012-01-19T21:10:20Z" changeset="10441183" uid="590490" user="Parakedista" />
+	<node id="1598129964" lat="0.0023188456646301273" lon="-0.000972453611518615" version="1" timestamp="2012-01-19T21:10:20Z" changeset="10441183" uid="590490" user="Parakedista" />
+	<node id="1598129974" lat="0.0024596348823723814" lon="-0.0011134196176584828" version="1" timestamp="2012-01-19T21:10:21Z" changeset="10441183" uid="590490" user="Parakedista" />
+	<node id="1598129977" lat="0.002151877584688566" lon="-0.0008174284648527409" version="1" timestamp="2012-01-19T21:10:21Z" changeset="10441183" uid="590490" user="Parakedista" />
+	<node id="1650972562" lat="-0.005197311374959937" lon="-0.0038854248612655374" version="1" timestamp="2012-02-27T23:31:14Z" changeset="10810065" uid="602999" user="rtafav2" />
+	<node id="1650972563" lat="-0.004961312456439147" lon="-0.003684841947794503" version="2" timestamp="2014-08-11T22:48:41Z" changeset="24689904" uid="380552" user="topolusitania" />
+	<node id="1650972564" lat="-0.0047270050049389" lon="-0.003607687318288491" version="1" timestamp="2012-02-27T23:31:14Z" changeset="10810065" uid="602999" user="rtafav2" />
+	<node id="1650972565" lat="-0.004495090679337059" lon="-0.003621051081836232" version="2" timestamp="2012-09-29T16:01:47Z" changeset="13298518" uid="88202" user="ruben leote" />
+	<node id="1699719966" lat="-0.001421769395481722" lon="0.005019095451985154" version="5" timestamp="2018-05-01T14:35:09Z" changeset="58586014" uid="763799" user="M!dgard">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals:direction" v="backward" />
+	</node>
+	<node id="1699728760" lat="0.003329744414041856" lon="0.0015072746467208573" version="4" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda" />
+	<node id="1699728779" lat="0.003625713420917062" lon="0.0017706570722440002" version="3" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda" />
+	<node id="1699728780" lat="0.0041840815155419625" lon="0.0022969601414454402" version="4" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1699746923" lat="-0.0011997524857217485" lon="0.0033487251230441724" version="1" timestamp="2012-03-31T15:47:16Z" changeset="11167895" uid="644070" user="André Lopes" />
+	<node id="1699746992" lat="0.0030374776988759157" lon="-0.001452034384492988" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1699747008" lat="0.0032630928475717467" lon="-0.0012644796411757767" version="2" timestamp="2017-11-19T14:00:23Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="1699747014" lat="0.004357444429156199" lon="-0.0023538717575801965" version="4" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="1712840825" lat="0.003163374209883219" lon="0.0013337869207939175" version="9" timestamp="2022-11-29T13:57:24Z" changeset="129522946" uid="17417493" user="miguelovila">
+		<tag k="button_operated" v="yes" />
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+		<tag k="traffic_signals:sound" v="yes" />
+		<tag k="traffic_signals:vibration" v="no" />
+	</node>
+	<node id="1724106748" lat="0.0012218146382490171" lon="0.00510735548033199" version="3" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="1724107026" lat="0.0013410129219125096" lon="0.0050279317947296105" version="3" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler" />
+	<node id="1799579519" lat="0.00439811313305147" lon="0.00239118208525828" version="3" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="1834409424" lat="0.0050021056599670825" lon="-0.001627986187424652" version="3" timestamp="2019-06-30T15:33:32Z" changeset="71758982" uid="5005031" user="Tiago Águeda" />
+	<node id="1834488365" lat="-0.00023095964937366886" lon="-0.0027062013301685575" version="1" timestamp="2012-07-22T18:31:09Z" changeset="12437701" uid="88202" user="ruben leote" />
+	<node id="1834488366" lat="-1.2841317434215066e-05" lon="-0.0025402164579038165" version="1" timestamp="2012-07-22T18:31:09Z" changeset="12437701" uid="88202" user="ruben leote" />
+	<node id="1834488371" lat="0.0006310205364456202" lon="-0.001903880599810228" version="2" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="1834488376" lat="0.0012844801607816382" lon="-0.0012319151910992593" version="3" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="1834488377" lat="0.0014039797336875598" lon="-0.0009574959288079023" version="2" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="1870229783" lat="-0.004443530315203369" lon="0.00010393190261829553" version="1" timestamp="2012-08-17T15:20:25Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="1870229784" lat="-0.004668149861814108" lon="-7.18215556550238e-06" version="2" timestamp="2017-07-10T10:34:29Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="1870229785" lat="-0.0052948366219741" lon="-0.0011261649295435272" version="2" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="1870229786" lat="-0.003898368378011224" lon="0.00013949941830237715" version="3" timestamp="2018-01-28T12:56:55Z" changeset="55828329" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A;B" />
+	</node>
+	<node id="1870229787" lat="-0.005164548745472716" lon="-0.0005310654386557722" version="2" timestamp="2017-07-10T10:34:29Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="1870229789" lat="-0.004172788117179689" lon="-0.002826290317654226" version="2" timestamp="2014-06-20T08:42:43Z" changeset="23039349" uid="2044770" user="dresende" />
+	<node id="1870229790" lat="-0.004763482539843343" lon="-0.0034786383035651258" version="2" timestamp="2015-06-15T18:33:10Z" changeset="31990402" uid="2986985" user="Siles" />
+	<node id="1870229792" lat="-0.0033852806797621676" lon="-0.00014033435175542274" version="6" timestamp="2022-10-27T15:00:52Z" changeset="128134283" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="marked" />
+		<tag k="crossing:island" v="no" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+	</node>
+	<node id="1870229801" lat="-0.005205541641114367" lon="-0.0031899286909431598" version="2" timestamp="2015-06-15T18:33:11Z" changeset="31990402" uid="2986985" user="Siles" />
+	<node id="1870229807" lat="-0.004869688121117897" lon="-0.0036481280013184758" version="2" timestamp="2012-09-29T16:01:48Z" changeset="13298518" uid="88202" user="ruben leote" />
+	<node id="1870229808" lat="-0.00425897856423826" lon="0.00014406024028728494" version="1" timestamp="2012-08-17T15:20:26Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="1870229810" lat="-0.0037275057665476234" lon="9.16946983533321e-05" version="1" timestamp="2012-08-17T15:20:26Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="1870229811" lat="-0.005231735639803999" lon="-0.0028577999487891096" version="3" timestamp="2015-09-28T14:58:43Z" changeset="34306134" uid="2682723" user="ogait87" />
+	<node id="1870229816" lat="-0.005259989939423804" lon="-0.00335174021925805" version="2" timestamp="2015-06-15T18:33:11Z" changeset="31990402" uid="2986985" user="Siles" />
+	<node id="1870229820" lat="-0.005239504652449628" lon="-0.0033864722428833412" version="2" timestamp="2015-06-15T18:33:11Z" changeset="31990402" uid="2986985" user="Siles" />
+	<node id="1870229821" lat="-0.004389986461672618" lon="-0.003406341639763471" version="1" timestamp="2012-08-17T15:20:27Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="1870229822" lat="-0.005052739633375481" lon="-0.0003833165035652601" version="2" timestamp="2017-07-10T10:34:29Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="1870229828" lat="-0.005224437681333981" lon="-0.0029457342726600887" version="1" timestamp="2012-08-17T15:20:27Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="1870229834" lat="-0.004650885489381155" lon="-0.0032310951567655964" version="1" timestamp="2012-08-17T15:20:27Z" changeset="12763333" uid="585494" user="PauloAvr" />
+	<node id="2272009782" lat="-0.005024759148200001" lon="-0.0037264185603465656" version="3" timestamp="2015-06-15T18:33:11Z" changeset="31990402" uid="2986985" user="Siles" />
+	<node id="2359427204" lat="-0.004545274387954212" lon="-0.003147108396703549" version="1" timestamp="2013-06-24T21:22:32Z" changeset="16691202" uid="1553783" user="vortex10" />
+	<node id="2359427205" lat="-0.0052710524289158196" lon="-0.001307734096871652" version="2" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="2459724926" lat="-0.0010862418159651058" lon="0.004979855555136721" version="2" timestamp="2017-11-04T09:37:10Z" changeset="53499337" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439021" lat="-0.0037034518357998026" lon="-0.0031276887012968873" version="2" timestamp="2017-07-10T10:34:26Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439022" lat="-0.0006446802444843687" lon="-0.000526773764811604" version="5" timestamp="2017-11-07T13:15:21Z" changeset="53581371" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439032" lat="-0.004150370626893505" lon="-0.0035672236954179576" version="2" timestamp="2017-07-10T10:34:26Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439064" lat="-0.002437541611714749" lon="-0.005174133770725898" version="3" timestamp="2017-07-10T11:41:34Z" changeset="50174174" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439088" lat="-0.0019962915732761113" lon="-0.005231858630225227" version="3" timestamp="2017-07-10T11:41:34Z" changeset="50174174" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439108" lat="-0.005206800689482992" lon="-0.0014704536756170448" version="3" timestamp="2017-07-10T10:34:26Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439110" lat="-0.002556148723964602" lon="-0.005143135239342085" version="2" timestamp="2017-07-10T11:41:34Z" changeset="50174174" uid="5005031" user="Tiago Águeda" />
+	<node id="2482439154" lat="-0.002201809731683941" lon="-0.0017103160662476236" version="4" timestamp="2017-07-10T10:34:27Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="2509174406" lat="-0.000384513630710498" lon="0.004867632122393335" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174408" lat="-0.00030798050216030863" lon="0.00479284580791525" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174410" lat="-0.0003111815765025567" lon="0.004741852249340086" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174413" lat="-0.000391521608587018" lon="0.004677488652949401" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174415" lat="-0.00048164625522376586" lon="0.004719825218521807" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174417" lat="-0.00046035406953517233" lon="0.004849246391345725" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2509174418" lat="-0.00043437389732246785" lon="0.004863455919849179" version="2" timestamp="2013-11-06T20:51:19Z" changeset="18754389" uid="1555566" user="Sergio S Lopes" />
+	<node id="2512566348" lat="0.0032729237121890205" lon="0.00448398345430997" version="3" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="2512566349" lat="0.003338775415312861" lon="0.004551004484191028" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="2512566351" lat="0.003291314462230859" lon="0.004565142335817434" version="3" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="2512566352" lat="0.0032699334697489603" lon="0.004592121180238069" version="3" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="2712338469" lat="-0.004319827996890701" lon="-0.003685718671475247" version="1" timestamp="2014-03-11T11:02:41Z" changeset="21042501" uid="411014" user="ahlidap" />
+	<node id="2794875952" lat="0.001362615347709353" lon="-0.0011128298975318636" version="2" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="2794875953" lat="0.0013308418504642285" lon="-0.0011711184670507584" version="2" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="2794875954" lat="0.0009247764963194624" lon="-0.0015903916370299386" version="2" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="3596981899" lat="0.0032656911593214122" lon="0.0012852255838082028" version="8" timestamp="2022-11-29T13:57:36Z" changeset="129522946" uid="17417493" user="miguelovila">
+		<tag k="button_operated" v="yes" />
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+		<tag k="traffic_signals:sound" v="yes" />
+		<tag k="traffic_signals:vibration" v="no" />
+	</node>
+	<node id="3596981901" lat="0.0034192716301375448" lon="0.0014645648640166696" version="5" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals" v="signal" />
+		<tag k="traffic_signals:direction" v="forward" />
+	</node>
+	<node id="3631881350" lat="-0.0006964628368106971" lon="-0.004871606645914319" version="1" timestamp="2015-07-02T18:46:25Z" changeset="32363771" uid="3028126" user="Setegu" />
+	<node id="3762643565" lat="-0.005212540299833157" lon="-0.00309903031627073" version="1" timestamp="2015-09-28T14:58:43Z" changeset="34306134" uid="2682723" user="ogait87" />
+	<node id="3762643566" lat="-0.004745193722726908" lon="-0.0035454428778635915" version="1" timestamp="2015-09-28T14:58:43Z" changeset="34306134" uid="2682723" user="ogait87" />
+	<node id="3935881445" lat="0.00203928062214825" lon="-0.001535649465757804" version="1" timestamp="2016-01-09T13:29:07Z" changeset="36463463" uid="3516384" user="amorim1315" />
+	<node id="3935882215" lat="0.0023064605551973184" lon="-0.00126730947156315" version="1" timestamp="2016-01-09T13:30:48Z" changeset="36463490" uid="3516384" user="amorim1315" />
+	<node id="3935882216" lat="0.0020058967662013494" lon="-0.000968354475720265" version="1" timestamp="2016-01-09T13:30:48Z" changeset="36463490" uid="3516384" user="amorim1315" />
+	<node id="4031779427" lat="0.005165942429434145" lon="0.003426829023821891" version="2" timestamp="2017-11-19T11:15:55Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4163013759" lat="0.004022506204799776" lon="0.004237491906620619" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4207124633" lat="0.0033354369328855997" lon="0.0013723117241584229" version="3" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda" />
+	<node id="4207124634" lat="0.0032548030043551687" lon="0.0014375150752427466" version="3" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda" />
+	<node id="4217004508" lat="-0.0032794998819542145" lon="-0.004705202375631548" version="2" timestamp="2017-07-10T10:34:26Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4217004509" lat="-0.0002502437692050131" lon="-0.002715929678442474" version="1" timestamp="2016-05-31T08:57:51Z" changeset="39683663" uid="4000376" user="Luís Galiza Cardoso" />
+	<node id="4222131872" lat="0.0014895090276002172" lon="-0.0008018576443568706" version="1" timestamp="2016-06-02T17:12:59Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131873" lat="0.000671186548812268" lon="-0.0018418670584663158" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131874" lat="0.001455337530058929" lon="-0.0008866681362152508" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131875" lat="0.0014504427939816909" lon="-0.0009819655590072314" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131876" lat="0.0014380535808804086" lon="-0.0010375938737994907" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131877" lat="0.0013960888589507378" lon="-0.0011353997865395516" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131878" lat="0.0013207516466853062" lon="-0.0012640603456806042" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4222131879" lat="0.0011685769709585602" lon="-0.0014215249059559743" version="2" timestamp="2018-01-28T12:56:54Z" changeset="55828329" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="4222131880" lat="0.0006996645858110666" lon="-0.0018741643862921465" version="1" timestamp="2016-06-02T17:13:00Z" changeset="39754882" uid="2682723" user="ogait87" />
+	<node id="4319644355" lat="-0.0030369588710682347" lon="-0.0004944166680169286" version="4" timestamp="2022-07-30T21:23:35Z" changeset="124283297" uid="8357704" user="manuel-128" />
+	<node id="4319644359" lat="-0.0038261264653036958" lon="0.0001227791158777588" version="2" timestamp="2017-07-10T10:34:28Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4319644362" lat="-0.002989896297219325" lon="-0.0005441201517776102" version="3" timestamp="2022-07-30T20:32:27Z" changeset="124282265" uid="8357704" user="manuel-128" />
+	<node id="4319644365" lat="-0.0023499019664462986" lon="-0.0011961105077767952" version="3" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4792502068" lat="-0.0011764164024736382" lon="0.002277612593891735" version="1" timestamp="2017-04-14T01:08:18Z" changeset="47761587" uid="5667862" user="JoséJúlio" />
+	<node id="4792502076" lat="-0.001189283333717424" lon="0.002867127181432547" version="1" timestamp="2017-04-14T01:08:18Z" changeset="47761587" uid="5667862" user="JoséJúlio" />
+	<node id="4792502077" lat="-0.0015565827780084918" lon="0.0029934517734002547" version="1" timestamp="2017-04-14T01:08:18Z" changeset="47761587" uid="5667862" user="JoséJúlio" />
+	<node id="4792502089" lat="0.0031726161189486804" lon="0.004657937574499274" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792502090" lat="0.0032645398763051334" lon="0.004622214637664566" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792502091" lat="0.0035733155632135852" lon="0.004948732218470599" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="highway" v="crossing" />
+	</node>
+	<node id="4792502092" lat="0.003622580296782365" lon="0.005005798749761702" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792539011" lat="0.0015767738503320297" lon="0.004316605007940554" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792539012" lat="0.002650263902893377" lon="0.005051315446057421" version="2" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792539020" lat="0.003893060518599912" lon="0.003368912313939309" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="4792540524" lat="0.002725422332215761" lon="-0.0011569593348951558" version="1" timestamp="2017-04-14T02:05:54Z" changeset="47762377" uid="5667862" user="JoséJúlio" />
+	<node id="4801880724" lat="0.0050938292965341464" lon="-0.001509134707474544" version="3" timestamp="2019-06-30T15:33:32Z" changeset="71758982" uid="5005031" user="Tiago Águeda" />
+	<node id="4846512662" lat="0.0036548447835875837" lon="0.004875849671585061" version="2" timestamp="2017-11-19T11:15:54Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="crossing" v="traffic_signals" />
+		<tag k="highway" v="crossing" />
+	</node>
+	<node id="4861813558" lat="-0.0013734339058651375" lon="0.0029023980939666258" version="1" timestamp="2017-05-18T12:20:52Z" changeset="48790319" uid="5005031" user="Tiago Águeda" />
+	<node id="4861813560" lat="-0.0011951664984132893" lon="0.00313623530878903" version="1" timestamp="2017-05-18T12:20:52Z" changeset="48790319" uid="5005031" user="Tiago Águeda" />
+	<node id="4861813561" lat="-0.0011941694522342294" lon="0.003090104655479587" version="1" timestamp="2017-05-18T12:20:52Z" changeset="48790319" uid="5005031" user="Tiago Águeda" />
+	<node id="4861855578" lat="-0.0012549316199278598" lon="0.002843494684242234" version="1" timestamp="2017-05-18T12:35:47Z" changeset="48790711" uid="5005031" user="Tiago Águeda" />
+	<node id="4948909140" lat="0.0028530147137537628" lon="0.0008004734431238202" version="4" timestamp="2020-04-08T02:38:35Z" changeset="83223082" uid="10983239" user="HedgiePT">
+		<tag k="maxspeed" v="30" />
+		<tag k="traffic_sign" v="maxspeed" />
+		<tag k="traffic_sign:direction" v="forward" />
+	</node>
+	<node id="4948909151" lat="0.0022813692191492783" lon="0.000275211403464585" version="1" timestamp="2017-07-03T13:24:19Z" changeset="50009338" uid="5005031" user="Tiago Águeda" />
+	<node id="4948920625" lat="0.0028317315412134964" lon="0.0007792716125779275" version="2" timestamp="2017-11-05T20:50:01Z" changeset="53539384" uid="5005031" user="Tiago Águeda" />
+	<node id="4948920626" lat="0.0020957177380004736" lon="0.00010984928523951502" version="1" timestamp="2017-07-03T13:30:20Z" changeset="50009484" uid="5005031" user="Tiago Águeda" />
+	<node id="4948920627" lat="0.0020259738648969543" lon="0.00017976392586471472" version="1" timestamp="2017-07-03T13:30:20Z" changeset="50009484" uid="5005031" user="Tiago Águeda" />
+	<node id="4948920628" lat="0.0027624878106689067" lon="0.0008374072274134596" version="1" timestamp="2017-07-03T13:30:20Z" changeset="50009484" uid="5005031" user="Tiago Águeda" />
+	<node id="4961410322" lat="-0.002779563201967139" lon="-0.0007578290460013208" version="2" timestamp="2022-07-30T21:23:35Z" changeset="124283297" uid="8357704" user="manuel-128" />
+	<node id="4961599478" lat="-0.005111373093851413" lon="-0.001654224777358195" version="2" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="4961599479" lat="-0.004911827374513489" lon="-0.001884809682773082" version="2" timestamp="2017-07-11T09:26:02Z" changeset="50196492" uid="5005031" user="Tiago Águeda" />
+	<node id="4961599480" lat="-0.004271565799593965" lon="-0.003703500295665627" version="1" timestamp="2017-07-10T10:34:17Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961599498" lat="-0.0013951698452521661" lon="-0.0011403869730541286" version="1" timestamp="2017-07-10T10:34:17Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961599499" lat="-0.0020097681632991393" lon="-0.0015393902439090857" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4961602526" lat="-0.002153249740496351" lon="-0.0016708714528630283" version="1" timestamp="2017-07-10T10:34:18Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961602527" lat="-0.002331716253236463" lon="-0.0012139699468362733" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4961602533" lat="-0.0014258448535864152" lon="-0.0011609069464825028" version="1" timestamp="2017-07-10T10:34:18Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961602581" lat="-0.003267375048558489" lon="-0.0002629221961818869" version="1" timestamp="2017-07-10T10:34:18Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961602583" lat="-0.0025464473725847255" lon="-0.000994944033014161" version="2" timestamp="2022-07-30T21:23:35Z" changeset="124283297" uid="8357704" user="manuel-128" />
+	<node id="4961602585" lat="-0.002314229977505732" lon="-0.001231601392135858" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4961602587" lat="-0.0019095488459502888" lon="-0.0015316360918055246" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4961602588" lat="-0.0020336485232417003" lon="-0.001559074444904662" version="1" timestamp="2017-07-10T10:34:19Z" changeset="50172609" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="backward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="4961602589" lat="-0.0018813574288383162" lon="-0.0020547330129000647" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4961602594" lat="-0.0023787792820949183" lon="-0.001167079386984098" version="5" timestamp="2022-11-10T08:37:06Z" changeset="128721161" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="marked" />
+		<tag k="crossing:island" v="no" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="no" />
+	</node>
+	<node id="4961602633" lat="-0.0036426739806498256" lon="4.9134311976922534e-05" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4961602634" lat="-0.003546351400114337" lon="-3.4580169842691807e-06" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4961602857" lat="-0.005236789272615901" lon="-0.0006849706516212917" version="1" timestamp="2017-07-10T10:34:21Z" changeset="50172609" uid="5005031" user="Tiago Águeda" />
+	<node id="4961709768" lat="-0.0022653764092109866" lon="-0.005219187830248965" version="1" timestamp="2017-07-10T11:41:33Z" changeset="50174174" uid="5005031" user="Tiago Águeda" />
+	<node id="4963498102" lat="-0.004068031977943858" lon="0.00016283206799865064" version="2" timestamp="2018-01-28T12:56:55Z" changeset="55828329" uid="5005031" user="Tiago Águeda" />
+	<node id="4963498692" lat="-0.0023927683015976036" lon="-0.0011522598132051092" version="3" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128" />
+	<node id="4963498695" lat="-0.0028874776815140577" lon="-0.0006455028203331768" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4963498705" lat="-0.0030980102526784246" lon="-0.0004317932303173641" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4963498708" lat="-0.00342494887282523" lon="-0.000103246319941045" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4963498717" lat="-0.0034645171252830867" lon="-6.615824409734334e-05" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="4969202346" lat="0.0002894052191525336" lon="-0.002239184755245228" version="1" timestamp="2017-07-13T21:06:00Z" changeset="50268211" uid="5005031" user="Tiago Águeda" />
+	<node id="5060914072" lat="0.0027821722794088306" lon="0.0008582291159417378" version="1" timestamp="2017-08-26T19:56:00Z" changeset="51467144" uid="2140098" user="filipetdf" />
+	<node id="5136124595" lat="0.00194450070899832" lon="0.004644192058244784" version="2" timestamp="2017-11-19T11:15:57Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5137051313" lat="-0.00518842912598284" lon="-0.0005818351220282402" version="1" timestamp="2017-09-29T08:05:10Z" changeset="52467951" uid="2682723" user="ogait87" />
+	<node id="5137051317" lat="-0.004397623721618572" lon="-0.002411028486537473" version="1" timestamp="2017-09-29T08:05:10Z" changeset="52467951" uid="2682723" user="ogait87" />
+	<node id="5137051319" lat="-0.0040422949271144565" lon="-0.0027801522428870114" version="1" timestamp="2017-09-29T08:05:11Z" changeset="52467951" uid="2682723" user="ogait87" />
+	<node id="5137839954" lat="-0.005294539199414413" lon="-0.0009778843260382824" version="1" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="5137839955" lat="-0.004555840098875351" lon="6.471529321539511e-05" version="1" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="5137839956" lat="-0.005020443228598719" lon="-0.0017694416333788403" version="1" timestamp="2017-09-29T17:02:13Z" changeset="52481325" uid="2682723" user="ogait87" />
+	<node id="5209906715" lat="-0.0009632416024284406" lon="0.004966394862177942" version="2" timestamp="2018-05-01T14:35:54Z" changeset="58586014" uid="763799" user="M!dgard">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals:direction" v="backward" />
+	</node>
+	<node id="5209906719" lat="-0.001073747914541246" lon="0.005032292948273756" version="1" timestamp="2017-11-04T09:37:07Z" changeset="53499337" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5209961326" lat="-0.001208523917599283" lon="0.003753033436550017" version="1" timestamp="2017-11-04T10:11:26Z" changeset="53500076" uid="5005031" user="Tiago Águeda" />
+	<node id="5209961327" lat="-0.0012123109015761545" lon="0.003926308462240447" version="1" timestamp="2017-11-04T10:11:26Z" changeset="53500076" uid="5005031" user="Tiago Águeda" />
+	<node id="5213075035" lat="0.0031519871092016167" lon="0.0015102423655567875" version="2" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals" v="signal" />
+		<tag k="traffic_signals:direction" v="backward" />
+	</node>
+	<node id="5215817930" lat="-0.0019677192833615176" lon="0.00023677358211139" version="1" timestamp="2017-11-07T08:50:16Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="5215817931" lat="-0.0019603254833863207" lon="0.00014587926197619634" version="1" timestamp="2017-11-07T08:50:17Z" changeset="53575625" uid="5005031" user="Tiago Águeda" />
+	<node id="5215817932" lat="-0.001964521997522334" lon="0.00019132642096229515" version="1" timestamp="2017-11-07T08:50:17Z" changeset="53575625" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5216169259" lat="-0.002969812730936275" lon="0.0005063481282409422" version="3" timestamp="2022-10-20T12:32:14Z" changeset="127836858" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="uncontrolled" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="yes" />
+	</node>
+	<node id="5216169260" lat="-0.0031424737270170653" lon="0.0005414613942920871" version="4" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="5216169261" lat="-0.0006688605405237774" lon="-0.0005618086218482457" version="1" timestamp="2017-11-07T13:15:17Z" changeset="53581371" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="backward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5216169262" lat="-0.0005468584128348221" lon="-0.0005736631257172127" version="1" timestamp="2017-11-07T13:15:17Z" changeset="53581371" uid="5005031" user="Tiago Águeda" />
+	<node id="5216169263" lat="-0.00018125005349696458" lon="-0.0007670712261951599" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda" />
+	<node id="5234938574" lat="-0.0004137676515605122" lon="-0.0001173010896156494" version="1" timestamp="2017-11-17T14:59:47Z" changeset="53877428" uid="5005031" user="Tiago Águeda" />
+	<node id="5237681217" lat="0.0034242174315680853" lon="0.0029636680889175014" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237681218" lat="0.003501851123689687" lon="0.0028717898710304106" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237681220" lat="0.0034020469711520916" lon="0.003217256006057248" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682223" lat="0.004424313467174946" lon="0.0029266920453233695" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682224" lat="0.004260450758436379" lon="0.003056948663161682" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682225" lat="0.003624687646076773" lon="0.003595230694721602" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682226" lat="0.003552443522439046" lon="0.003556326506005714" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682227" lat="0.0031876445568496067" lon="0.0037093952411276967" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682228" lat="0.002708939333208459" lon="0.0038962132274950262" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682229" lat="0.003971194998941358" lon="0.0033122944601415637" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682231" lat="0.003619888090156889" lon="0.003531473461368045" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682232" lat="0.004000971992243363" lon="0.0033299990789986142" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237682234" lat="0.0032408530787244464" lon="0.004537712420893225" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682235" lat="0.0032164706994328254" lon="0.004509064825081539" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5237682236" lat="0.002969551718487408" lon="0.004248501521124362" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682237" lat="0.003612792543688767" lon="0.003507992230277378" version="2" timestamp="2022-08-04T11:31:37Z" changeset="124476425" uid="1978357" user="mecocivil">
+		<tag k="direction" v="backward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237682238" lat="0.0017762070180647256" lon="0.004210884034889894" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682239" lat="0.001688280224021064" lon="0.004252382524247745" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682241" lat="0.0007572636844954996" lon="0.004785398013601881" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682242" lat="0.003544336542577606" lon="0.004918033459336091" version="1" timestamp="2017-11-19T11:15:48Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="traffic_signals" />
+		<tag k="traffic_signals" v="signal" />
+		<tag k="traffic_signals:direction" v="forward" />
+	</node>
+	<node id="5237682244" lat="0.002776771857820787" lon="0.005174870845823385" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682245" lat="0.0031221616628434533" lon="0.004729830279143131" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682246" lat="0.0032221706547376845" lon="0.004575558048115731" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682247" lat="0.00422175959069909" lon="0.004440832711320736" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682248" lat="0.004718032170940833" lon="0.003976038871169607" version="2" timestamp="2018-01-28T15:34:06Z" changeset="55832365" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5237682250" lat="0.005158753493511952" lon="0.0035284286845350087" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682251" lat="0.005176941110451094" lon="0.0035698425352282707" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682252" lat="0.004160004836075416" lon="0.00437586396331498" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237682254" lat="0.003729109933151336" lon="0.003706021597029058" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682255" lat="0.003834417097599801" lon="0.0035525879244109873" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682256" lat="0.00458068263080142" lon="0.0028008438646182445" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5237682257" lat="0.003802336418167733" lon="0.003430014473870622" version="1" timestamp="2017-11-19T11:15:49Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682337" lat="0.00512437443836335" lon="0.003400842387991093" version="2" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237682338" lat="0.005141970321326497" lon="0.003591501696117274" version="1" timestamp="2017-11-19T11:15:50Z" changeset="53920504" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="backward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237682339" lat="0.0011306923330257354" lon="0.005166410596333463" version="1" timestamp="2017-11-19T11:15:50Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682341" lat="0.0006754301239537964" lon="0.004795739260163996" version="3" timestamp="2023-09-30T22:20:02Z" changeset="141969478" uid="11152051" user="RazorWind">
+		<tag k="crossing" v="marked" />
+		<tag k="crossing:markings" v="yes" />
+		<tag k="highway" v="crossing" />
+	</node>
+	<node id="5237682342" lat="0.0003719857596815642" lon="0.004960064184658957" version="1" timestamp="2017-11-19T11:15:51Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237682344" lat="0.0026071948503615617" lon="0.0050033668645459595" version="1" timestamp="2017-11-19T11:15:51Z" changeset="53920504" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860013" lat="0.0037526234144089417" lon="-0.0021704481080949654" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860014" lat="0.0037173505095928865" lon="-0.002133137114870309" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860015" lat="0.0035256981170620058" lon="-0.0019310795644602366" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860016" lat="0.0037304281877925307" lon="-0.0017240711363717626" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860017" lat="0.004257493807751094" lon="-0.0011969044061243823" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860019" lat="0.0031906496609660027" lon="-0.0011931998294504092" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237860020" lat="0.002909470888205707" lon="-0.0009152982634831802" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237866321" lat="0.0026952460375937394" lon="-0.001127170486191677" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237866322" lat="0.002569345091154506" lon="-0.001003227314812956" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237866323" lat="0.0024339518719420335" lon="-0.0008698605972266535" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237866325" lat="0.002646079208957523" lon="-0.0006575324315384395" version="1" timestamp="2017-11-19T14:00:20Z" changeset="53923564" uid="5005031" user="Tiago Águeda" />
+	<node id="5237866334" lat="0.0026804519511194704" lon="-0.0006897532564906248" version="1" timestamp="2017-11-19T14:00:21Z" changeset="53923564" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5237866335" lat="0.0024705220695035277" lon="-0.0008342951427832267" version="1" timestamp="2017-11-19T14:00:21Z" changeset="53923564" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="give_way" />
+	</node>
+	<node id="5243375211" lat="0.003428650165905399" lon="-0.0005344929576400861" version="2" timestamp="2019-07-07T11:35:01Z" changeset="71979688" uid="5005031" user="Tiago Águeda" />
+	<node id="5243375323" lat="0.003602339016839169" lon="-0.002011933120905353" version="1" timestamp="2017-11-22T20:55:27Z" changeset="54012121" uid="5005031" user="Tiago Águeda" />
+	<node id="5366099991" lat="-0.0029574106591831618" lon="0.0013646127031811547" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="ISCAUA" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5366099992" lat="-0.003019363399207856" lon="0.0012354903471439881" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="ISCAUA" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5366099993" lat="-0.0022330063215027112" lon="0.0001917831812265229" version="2" timestamp="2023-07-02T19:10:37Z" changeset="138035737" uid="11113526" user="lalolan">
+		<tag k="alt_name" v="Av. da Universidade;Aveiro Universidade" />
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5366099994" lat="-0.002163062354727383" lon="0.00023951022962186096" version="2" timestamp="2023-07-02T19:10:37Z" changeset="138035737" uid="11113526" user="lalolan">
+		<tag k="alt_name" v="Av. da Universidade;Aveiro Universidade" />
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5366099995" lat="-0.0026219655256669917" lon="0.0019532206363830416" version="1" timestamp="2018-01-27T15:15:58Z" changeset="55806112" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="5366099996" lat="6.435269713843296e-05" lon="-0.0007633445957069533" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366099997" lat="1.0495683676441013e-05" lon="-0.0007405463083726106" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366099998" lat="-4.1962441440585206e-05" lon="-0.0007180519549672573" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366099999" lat="-8.622713427716268e-05" lon="-0.0006958614670167085" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100000" lat="-0.00015527200495523474" lon="-0.0006653875777246227" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100001" lat="-0.00023780605675781245" lon="-0.0006320258819557468" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100002" lat="0.0009185665513589295" lon="-0.0007333167134476097" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100003" lat="0.0008779995096656439" lon="-0.0007681230292598069" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100004" lat="0.000832136696738457" lon="-0.0007995096575060466" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="direction" v="forward" />
+		<tag k="traffic_calming" v="bump" />
+	</node>
+	<node id="5366100005" lat="0.000933755754973054" lon="-0.0008509572554769107" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Hospital / Universidade" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5366100006" lat="0.0011383884841744227" lon="-0.0005691649824870181" version="2" timestamp="2019-07-07T16:02:26Z" changeset="71985753" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Hospital / Universidade" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5366100007" lat="0.004037094764930218" lon="0.002157216320903659" version="2" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Av. Santa Joana" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5366100008" lat="0.00454719666698377" lon="0.0024767428415672136" version="2" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Av. Santa Joana" />
+		<tag k="network" v="AveiroBus" />
+		<tag k="operator" v="AveiroBus" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5366334853" lat="-0.0030812218151331076" lon="0.0006659486460196605" version="4" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="5367963787" lat="0.0011292078413618718" lon="-0.0013867200004937096" version="1" timestamp="2018-01-28T12:56:52Z" changeset="55828329" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5367963788" lat="-0.002113782360033178" lon="-0.0016339350768350906" version="2" timestamp="2018-02-13T07:37:59Z" changeset="56315674" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Universidade - Reitoria" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A;B" />
+	</node>
+	<node id="5367963789" lat="-0.0037937835116715803" lon="-0.003035352124591471" version="2" timestamp="2018-02-13T07:36:21Z" changeset="56315643" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Universidade - Santiago" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5367963790" lat="-0.003992006041809792" lon="-0.003411489459267457" version="2" timestamp="2018-02-13T07:36:21Z" changeset="56315643" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Universidade - Santiago" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5368271756" lat="0.0010474526437579345" lon="0.005081682412717158" version="1" timestamp="2018-01-28T15:34:05Z" changeset="55832365" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A" />
+	</node>
+	<node id="5368271759" lat="0.0049125655674045355" lon="0.003794637341039304" version="1" timestamp="2018-01-28T15:34:05Z" changeset="55832365" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5407993802" lat="-0.0018244093843714658" lon="0.0018420876881591985" version="1" timestamp="2018-02-12T19:12:34Z" changeset="56303166" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="EB 23 João Afonso" />
+		<tag k="public_transport" v="stop_position" />
+	</node>
+	<node id="5409302994" lat="0.0021510089281896127" lon="0.002180835186755984" version="2" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="disused" v="yes" />
+		<tag k="name" v="Av. Araújo Silva / R. Castro Matoso" />
+		<tag k="public_transport" v="stop_position" />
+	</node>
+	<node id="5409307678" lat="-0.00027122743456622754" lon="0.004543954124297606" version="1" timestamp="2018-02-13T07:51:31Z" changeset="56315983" uid="5005031" user="Tiago Águeda" />
+	<node id="5409307679" lat="-0.00033857025776085894" lon="0.0045892527466968695" version="1" timestamp="2018-02-13T07:51:31Z" changeset="56315983" uid="5005031" user="Tiago Águeda" />
+	<node id="5409307680" lat="-0.0004205981692214909" lon="0.0046787826297215035" version="1" timestamp="2018-02-13T07:51:31Z" changeset="56315983" uid="5005031" user="Tiago Águeda" />
+	<node id="5409307681" lat="-0.00044437850237642425" lon="0.004686915954383492" version="1" timestamp="2018-02-13T07:51:31Z" changeset="56315983" uid="5005031" user="Tiago Águeda" />
+	<node id="5409307683" lat="-3.153531161183032e-05" lon="0.004311768904317419" version="2" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="disused" v="yes" />
+		<tag k="name" v="Av. Araújo Silva" />
+		<tag k="public_transport" v="stop_position" />
+	</node>
+	<node id="5409307684" lat="-9.298210464751239e-05" lon="0.004371202088229364" version="2" timestamp="2019-06-02T17:00:46Z" changeset="70861172" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="disused" v="yes" />
+		<tag k="name" v="Av. Araújo Silva" />
+		<tag k="public_transport" v="stop_position" />
+	</node>
+	<node id="5410016498" lat="0.0024966624418596753" lon="0.002979819761878937" version="1" timestamp="2018-02-13T14:47:10Z" changeset="56325571" uid="5005031" user="Tiago Águeda" />
+	<node id="5417734728" lat="-0.0021840823395568674" lon="0.0029119330772425975" version="1" timestamp="2018-02-17T04:14:07Z" changeset="56431133" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="R. Bombeiros Velhos" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="B" />
+	</node>
+	<node id="5417734729" lat="-0.0015829056042736278" lon="0.004054083070828876" version="1" timestamp="2018-02-17T04:14:07Z" changeset="56431133" uid="5005031" user="Tiago Águeda">
+		<tag k="bus" v="yes" />
+		<tag k="name" v="Junta de Freguesia da Glória" />
+		<tag k="public_transport" v="stop_position" />
+		<tag k="ref" v="A;B" />
+	</node>
+	<node id="5818226440" lat="-0.00017419541997687596" lon="-0.004687429022565535" version="2" timestamp="2023-07-04T10:50:00Z" changeset="138101978" uid="12509680" user="Rui CT7ALW" />
+	<node id="6516319873" lat="0.0051151724670261255" lon="0.003212234322118926" version="1" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="6516319874" lat="0.005078403273806323" lon="0.0032394407159078197" version="1" timestamp="2019-06-02T13:42:50Z" changeset="70857202" uid="5005031" user="Tiago Águeda" />
+	<node id="6594398685" lat="0.003947737926780487" lon="-0.0009214394148134089" version="1" timestamp="2019-07-07T11:35:01Z" changeset="71979688" uid="5005031" user="Tiago Águeda" />
+	<node id="7187106512" lat="0.0022692705105409085" lon="-0.0035059347801645" version="1" timestamp="2020-02-05T07:54:36Z" changeset="80573837" uid="9902286" user="di5order" />
+	<node id="7187106514" lat="0.0024633099870956235" lon="-0.003413364473083793" version="1" timestamp="2020-02-05T07:54:36Z" changeset="80573837" uid="9902286" user="di5order" />
+	<node id="7187106516" lat="0.002511270331848469" lon="-0.003390487985190541" version="1" timestamp="2020-02-05T07:54:36Z" changeset="80573837" uid="9902286" user="di5order" />
+	<node id="7187106518" lat="0.002750372677051888" lon="-0.003274814186499014" version="1" timestamp="2020-02-05T07:54:36Z" changeset="80573837" uid="9902286" user="di5order" />
+	<node id="7347339511" lat="-0.0031113966824439852" lon="0.0007496248136319079" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339512" lat="-0.003305742568710538" lon="0.0005379667095947466" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339513" lat="-0.0030873173754967427" lon="0.0006183727990234715" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339515" lat="-0.0031440700751241882" lon="0.0007805571454616235" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339517" lat="-0.0032666713266419115" lon="0.0008006985890931923" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339518" lat="-0.003304541100037547" lon="0.000783675019665976" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339519" lat="-0.0033410121742295153" lon="0.0007506913855193955" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339522" lat="-0.0033340196495825185" lon="0.0005619829785382179" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339523" lat="-0.003225604256479778" lon="0.0008063220988327431" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339524" lat="-0.0033644937796637893" lon="0.0007073715535584279" version="4" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7347339526" lat="-0.00318453732868494" lon="0.0008000896074938315" version="3" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7370917811" lat="-0.0033721880951447293" lon="0.0006587315224022934" version="5" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7460465642" lat="-0.0037918540237876254" lon="0.00011312697026707575" version="2" timestamp="2022-07-30T20:25:06Z" changeset="124282102" uid="8357704" user="manuel-128" />
+	<node id="7460465645" lat="-0.003340315049263217" lon="0.0005046789261913473" version="3" timestamp="2022-07-30T20:25:06Z" changeset="124282102" uid="8357704" user="manuel-128" />
+	<node id="7460465646" lat="-0.0032723695117537065" lon="0.0005219304283763484" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="7901059042" lat="-0.0034378370174459197" lon="0.0004590035106932503" version="4" timestamp="2022-10-20T14:50:30Z" changeset="127842951" uid="17417493" user="miguelovila">
+		<tag k="crossing" v="marked" />
+		<tag k="highway" v="crossing" />
+		<tag k="tactile_paving" v="yes" />
+	</node>
+	<node id="7911071163" lat="0.0027609833322143947" lon="0.0051594454427600365" version="1" timestamp="2020-09-15T21:09:11Z" changeset="90947331" uid="11822347" user="rmbl88" />
+	<node id="8702724248" lat="0.0039064069392688115" lon="-0.002373037573842035" version="3" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="8879553215" lat="-0.0005451519443065497" lon="0.0011725192171645991" version="1" timestamp="2021-06-30T09:01:34Z" changeset="107194408" uid="1978357" user="mecocivil" />
+	<node id="8879553216" lat="-0.0005252672748772243" lon="0.0012082374333000961" version="1" timestamp="2021-06-30T09:01:34Z" changeset="107194408" uid="1978357" user="mecocivil">
+		<tag k="amenity" v="parking_entrance" />
+	</node>
+	<node id="9572616954" lat="-0.0033554022058873445" lon="0.0005923072204378331" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9572616955" lat="-0.003368391451275441" lon="0.0006270394136104361" version="2" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9635201035" lat="0.0023967471229116417" lon="0.0030788439071238916" version="1" timestamp="2022-04-04T08:56:13Z" changeset="119293361" uid="1978357" user="mecocivil" />
+	<node id="9635201036" lat="0.0020268604535519964" lon="0.003417186420325038" version="1" timestamp="2022-04-04T08:56:13Z" changeset="119293361" uid="1978357" user="mecocivil" />
+	<node id="9635201037" lat="0.0022979774422351405" lon="0.0040359896278840965" version="1" timestamp="2022-04-04T08:56:13Z" changeset="119293361" uid="1978357" user="mecocivil" />
+	<node id="9694503532" lat="0.001404073841062997" lon="-0.0003753001021714193" version="1" timestamp="2022-04-26T08:09:53Z" changeset="120199295" uid="12658" user="laborim" />
+	<node id="9920619439" lat="-0.0028670949630845394" lon="0.0005439671549313139" version="1" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9920619443" lat="-0.003182941372712297" lon="0.0005212457318438665" version="1" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9920619444" lat="-0.003108500740655836" lon="0.000575281064659199" version="1" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9920619445" lat="-0.003227705456805564" lon="0.0005145580791889015" version="1" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9920619446" lat="-0.0030898144557016676" lon="0.0007101046473513877" version="1" timestamp="2022-07-30T09:18:08Z" changeset="124260193" uid="8357704" user="manuel-128" />
+	<node id="9921463219" lat="-0.0033845790194379495" lon="0.0005625154040927462" version="1" timestamp="2022-07-30T20:25:06Z" changeset="124282102" uid="8357704" user="manuel-128" />
+	<node id="9921463220" lat="-0.0037733688161865624" lon="0.00014527520590276844" version="2" timestamp="2022-07-30T20:52:40Z" changeset="124282717" uid="8357704" user="manuel-128">
+		<tag k="direction" v="forward" />
+		<tag k="highway" v="stop" />
+	</node>
+	<node id="10002075834" lat="0.004039414127226132" lon="-0.002735741558739295" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075835" lat="0.004022127494445759" lon="-0.0027235075874565717" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075836" lat="0.004009436979218649" lon="-0.002706409948598152" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075837" lat="0.004002641616550157" lon="-0.0026862723942282945" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075838" lat="0.004002440926909634" lon="-0.002665070687923798" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075839" lat="0.004008735069745292" lon="-0.0026447806266933415" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075840" lat="0.004079177092338438" lon="-0.002607541901672858" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075841" lat="0.004101359582567877" lon="-0.0026148362407364804" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075842" lat="0.004119845317553625" lon="-0.0026291979454396933" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075843" lat="0.004132236162246299" lon="-0.0026490312823538808" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075844" lat="0.004137332982932902" lon="-0.002671828577143029" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075845" lat="0.004134336319520109" lon="-0.002695006152406179" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075846" lat="0.0041236457404004185" lon="-0.0027158283002512752" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075847" lat="0.004020924602934496" lon="-0.002627378026139028" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075848" lat="0.004037910477444343" lon="-0.002614686734576946" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075849" lat="0.004057994097879722" lon="-0.002607846693434976" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075850" lat="0.004106560098695154" lon="-0.002731787247940007" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075851" lat="0.004085077709732971" lon="-0.0027409831216254864" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075852" lat="0.004061796442895265" lon="-0.0027423519258263068" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075853" lat="0.004169113300822856" lon="-0.0028131717198398953" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075854" lat="0.003993142448909183" lon="-0.0025120995277998688" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075855" lat="0.0038874363791045205" lon="-0.0027437269206057875" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10002075857" lat="0.004206373370665933" lon="-0.002564145759072029" version="1" timestamp="2022-09-05T12:38:40Z" changeset="125813710" uid="11152051" user="RazorWind" />
+	<node id="10211976235" lat="0.001901974820358945" lon="-0.000472873853224348" version="1" timestamp="2022-11-23T12:42:38Z" changeset="129280939" uid="17417493" user="miguelovila" />
+	<node id="10212032698" lat="0.003070707567395972" lon="0.004794503841581715" version="1" timestamp="2022-11-23T13:10:00Z" changeset="129280939" uid="17417493" user="miguelovila" />
+	<node id="11025314451" lat="0.002924828706090884" lon="-0.0031927331827299693" version="1" timestamp="2023-07-04T10:50:00Z" changeset="138101978" uid="12509680" user="Rui CT7ALW" />
+	<node id="11335357643" lat="0.0048984776164962465" lon="0.003807784546174076" version="1" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler" />
+	<node id="11335357758" lat="0.002390149363901789" lon="0.004733985634236155" version="1" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler" />
+	<node id="11350116026" lat="-0.005334694724815196" lon="-0.003990696158944505" version="1" timestamp="2023-11-15T01:40:16Z" changeset="144032377" uid="17417493" user="miguelovila" />
+	<node id="11354899403" lat="-0.0016339475861154805" lon="-0.002316387236847545" version="1" timestamp="2023-11-16T10:57:40Z" changeset="144089439" uid="17417493" user="miguelovila" />
+	<way id="33654363" version="22" timestamp="2023-09-17T19:13:58Z" changeset="141395226" uid="5177" user="waldyrious">
+		<nd ref="392954326" />
+		<nd ref="701143519" />
+		<nd ref="458580412" />
+		<nd ref="5366100008" />
+		<nd ref="701187186" />
+		<nd ref="458580443" />
+		<nd ref="1487572497" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="cycleway:right:oneway" v="yes" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="placement" v="left_of:1" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="33654371" version="22" timestamp="2023-11-16T10:49:19Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="385013744" />
+		<nd ref="689479797" />
+		<nd ref="385013745" />
+		<nd ref="385013746" />
+		<nd ref="1443502799" />
+		<nd ref="1443502797" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rotunda do Hospital" />
+		<tag k="parking:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="34149770" version="20" timestamp="2023-11-16T11:00:02Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="10002075855" />
+		<nd ref="11025314451" />
+		<nd ref="7187106518" />
+		<nd ref="7187106516" />
+		<nd ref="7187106514" />
+		<nd ref="7187106512" />
+		<nd ref="391284648" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Pega" />
+		<tag k="parking:left" v="street_side" />
+		<tag k="parking:left:orientation" v="parallel" />
+		<tag k="parking:right" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="34262530" version="33" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler">
+		<nd ref="5237682251" />
+		<nd ref="5237682338" />
+		<nd ref="5368271759" />
+		<nd ref="11335357643" />
+		<nd ref="5237682248" />
+		<nd ref="5237682247" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="40" />
+		<tag k="name" v="Avenida 25 de Abril" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="34633953" version="17" timestamp="2022-12-16T18:20:53Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="402743291" />
+		<nd ref="2459724926" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Mário Sacramento" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="34633995" version="14" timestamp="2023-01-04T11:14:54Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="5237682241" />
+		<nd ref="5237682341" />
+		<nd ref="402744302" />
+		<nd ref="1489449155" />
+		<nd ref="402744299" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Sebastião" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="38628967" version="37" timestamp="2022-12-16T18:22:00Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="385013746" />
+		<nd ref="1443502795" />
+		<nd ref="5366100005" />
+		<nd ref="390064448" />
+		<nd ref="1443502759" />
+		<nd ref="1443502739" />
+		<nd ref="1443502709" />
+		<nd ref="390064447" />
+		<nd ref="5216169263" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="42772213" version="19" timestamp="2023-05-25T07:12:28Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="1406433375" />
+		<nd ref="402744127" />
+		<nd ref="1406433949" />
+		<nd ref="2509174413" />
+		<nd ref="5409307680" />
+		<nd ref="5409307681" />
+		<nd ref="1406433876" />
+		<nd ref="2509174415" />
+		<nd ref="1406433868" />
+		<nd ref="402744124" />
+		<nd ref="1406433447" />
+		<nd ref="402744134" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="42772214" version="27" timestamp="2022-12-16T18:20:58Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="402743291" />
+		<nd ref="1699719966" />
+		<nd ref="1406433108" />
+		<tag k="cycleway" v="lane" />
+		<tag k="foot" v="yes" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Mário Sacramento" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="54754790" version="18" timestamp="2022-11-16T01:35:42Z" changeset="128965293" uid="17417493" user="miguelovila">
+		<nd ref="2482439021" />
+		<nd ref="5367963790" />
+		<nd ref="2482439032" />
+		<nd ref="4961599480" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Estrada de Santiago" />
+		<tag k="postal_code" v="3810-168" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="55806518" version="23" timestamp="2023-01-04T11:11:55Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="4207124634" />
+		<nd ref="1487627551" />
+		<nd ref="5213075035" />
+		<nd ref="701015399" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida Araújo e Silva" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003472" version="11" timestamp="2023-11-09T07:54:45Z" changeset="143810274" uid="7392967" user="FredrikEdler">
+		<nd ref="1406433926" />
+		<nd ref="11335357758" />
+		<nd ref="5237682344" />
+		<nd ref="4792539012" />
+		<nd ref="7911071163" />
+		<nd ref="5237682244" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua José Joaquim Lopes de Lima" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003506" version="13" timestamp="2023-05-25T07:12:25Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="1406434181" />
+		<nd ref="1489449147" />
+		<nd ref="1489449149" />
+		<nd ref="1406433574" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Mário Sacramento" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003525" version="8" timestamp="2023-11-14T15:38:24Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="1406433175" />
+		<nd ref="1406434239" />
+		<nd ref="1406433895" />
+		<nd ref="4163013759" />
+		<nd ref="5237682252" />
+		<nd ref="5237682247" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Travessa de São Martinho" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003526" version="9" timestamp="2023-10-26T14:27:16Z" changeset="143164447" uid="17417493" user="miguelovila">
+		<nd ref="1489449154" />
+		<nd ref="1406433674" />
+		<nd ref="1406433333" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk:left" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003529" version="15" timestamp="2023-01-04T11:15:10Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="2459724926" />
+		<nd ref="534823201" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="127003552" version="12" timestamp="2023-11-14T15:37:44Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="1406434188" />
+		<nd ref="4846512662" />
+		<nd ref="2512566349" />
+		<nd ref="2512566348" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Infante Dom Henrique" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="131114431" version="10" timestamp="2022-12-16T18:19:40Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="1443502834" />
+		<nd ref="1443502831" />
+		<nd ref="1443502828" />
+		<nd ref="385013741" />
+		<tag k="foot" v="no" />
+		<tag k="highway" v="secondary_link" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="placement" v="left_of:1" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="131114434" version="13" timestamp="2022-11-10T08:31:02Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="1443502582" />
+		<nd ref="1443502583" />
+		<nd ref="5234938574" />
+		<nd ref="1443502604" />
+		<nd ref="1443502626" />
+		<nd ref="1443502602" />
+		<nd ref="1443502584" />
+		<nd ref="8879553215" />
+		<nd ref="1489672248" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="131114468" version="10" timestamp="2022-12-16T18:19:37Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="385013749" />
+		<nd ref="1443502827" />
+		<nd ref="1443502829" />
+		<nd ref="1443502833" />
+		<nd ref="1443502834" />
+		<tag k="highway" v="secondary_link" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="placement" v="left_of:1" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135440066" version="18" timestamp="2023-09-16T09:52:31Z" changeset="141333296" uid="5177" user="waldyrious">
+		<nd ref="1487572477" />
+		<nd ref="4948920627" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135441151" version="12" timestamp="2022-11-11T16:04:24Z" changeset="128783150" uid="17417493" user="miguelovila">
+		<nd ref="1487604379" />
+		<nd ref="6516319874" />
+		<nd ref="1487604397" />
+		<tag k="bicycle" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="layer" v="-1" />
+		<tag k="lit" v="24/7" />
+		<tag k="location" v="underground" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+		<tag k="tunnel" v="yes" />
+	</way>
+	<way id="135441155" version="10" timestamp="2023-09-17T19:13:58Z" changeset="141395226" uid="5177" user="waldyrious">
+		<nd ref="1487604382" />
+		<nd ref="1799579519" />
+		<nd ref="1487604378" />
+		<nd ref="1487604372" />
+		<nd ref="1487572497" />
+		<tag k="bicycle" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="placement" v="right_of:1" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135441157" version="8" timestamp="2022-10-23T20:59:23Z" changeset="127973448" uid="17417493" user="miguelovila">
+		<nd ref="1487572496" />
+		<nd ref="1487604363" />
+		<nd ref="1487604371" />
+		<nd ref="1487604375" />
+		<nd ref="1487604379" />
+		<tag k="bicycle" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="placement" v="right_of:1" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135441161" version="18" timestamp="2023-09-16T09:52:29Z" changeset="141333296" uid="5177" user="waldyrious">
+		<nd ref="4207124633" />
+		<nd ref="3596981899" />
+		<nd ref="701005198" />
+		<nd ref="1487572491" />
+		<nd ref="4948909140" />
+		<nd ref="4948920625" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135441164" version="8" timestamp="2022-11-22T11:59:12Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="1487572506" />
+		<nd ref="1487572508" />
+		<nd ref="1487572510" />
+		<nd ref="1487572514" />
+		<nd ref="458580412" />
+		<tag k="highway" v="tertiary_link" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="left" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135441167" version="15" timestamp="2023-12-11T10:20:22Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="4207124634" />
+		<nd ref="1699728760" />
+		<nd ref="1699728779" />
+		<nd ref="1487572496" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="40" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135448689" version="8" timestamp="2023-11-17T09:20:32Z" changeset="144129653" uid="17417493" user="miguelovila">
+		<nd ref="1487627536" />
+		<nd ref="1487627539" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Bernardo Torres" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:left" v="no" />
+		<tag k="parking:lane:right" v="parallel" />
+		<tag k="parking:lane:right:parallel" v="painted_area_only" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source:width" v="ARCore" />
+		<tag k="surface" v="asphalt" />
+		<tag k="width" v="5.5" />
+	</way>
+	<way id="135448698" version="8" timestamp="2023-03-10T11:45:49Z" changeset="133515277" uid="17417493" user="miguelovila">
+		<nd ref="1487627547" />
+		<nd ref="1487627559" />
+		<nd ref="1487627569" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Francisco Vale Guimarães" />
+		<tag k="noexit" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135448700" version="7" timestamp="2022-11-15T21:49:24Z" changeset="128960845" uid="17417493" user="miguelovila">
+		<nd ref="1487627577" />
+		<nd ref="5237682224" />
+		<nd ref="5237682223" />
+		<nd ref="5237682256" />
+		<nd ref="1487572506" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Eça de Queirós" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135448704" version="6" timestamp="2023-12-11T10:20:46Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1487627554" />
+		<nd ref="5237681217" />
+		<nd ref="5237681218" />
+		<nd ref="1699728780" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Loureiro" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641861" version="12" timestamp="2023-05-25T07:12:47Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="1406433375" />
+		<nd ref="1489449151" />
+		<nd ref="5409307678" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida Araújo e Silva" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641862" version="13" timestamp="2023-05-25T07:12:52Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="5409307678" />
+		<nd ref="5409307679" />
+		<nd ref="5409307680" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida Araújo e Silva" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641863" version="9" timestamp="2023-01-04T11:14:48Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="1406433333" />
+		<nd ref="1406434326" />
+		<nd ref="5237682342" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Aires Barbosa" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641868" version="11" timestamp="2023-05-25T07:12:32Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="1406433868" />
+		<nd ref="1489449148" />
+		<nd ref="402744122" />
+		<nd ref="1406434181" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Mário Sacramento" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641873" version="10" timestamp="2023-11-15T12:20:29Z" changeset="144049233" uid="17417493" user="miguelovila">
+		<nd ref="1406433926" />
+		<nd ref="1489449160" />
+		<nd ref="5136124595" />
+		<nd ref="1724107026" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Aviação Naval" />
+		<tag k="parking:left" v="street_side" />
+		<tag k="parking:left:orientation" v="perpendicular" />
+		<tag k="parking:right" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641880" version="8" timestamp="2023-12-20T12:17:38Z" changeset="145328810" uid="17417493" user="miguelovila">
+		<nd ref="402744299" />
+		<nd ref="1406433539" />
+		<nd ref="1489449152" />
+		<nd ref="402744128" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Sebastião" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641882" version="7" timestamp="2022-11-30T22:24:51Z" changeset="129577651" uid="17417493" user="miguelovila">
+		<nd ref="1489449140" />
+		<nd ref="1594974874" />
+		<nd ref="1406434277" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Viela da Fonte dos Amores" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk:left" v="separate" />
+		<tag k="sidewalk:right" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135641884" version="6" timestamp="2023-10-20T12:13:29Z" changeset="142867553" uid="17417493" user="miguelovila">
+		<nd ref="1489449155" />
+		<nd ref="5237682342" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135662472" version="10" timestamp="2023-12-20T12:17:42Z" changeset="145328810" uid="17417493" user="miguelovila">
+		<nd ref="402744131" />
+		<nd ref="1489609692" />
+		<nd ref="1489449154" />
+		<nd ref="402744299" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Sebastião" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663872" version="6" timestamp="2023-12-11T10:19:49Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1489637990" />
+		<nd ref="5237866325" />
+		<nd ref="5237866335" />
+		<nd ref="5237866323" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de José de Azeredo Perdigão" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663873" version="8" timestamp="2023-12-11T10:19:32Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1489637990" />
+		<nd ref="1489637992" />
+		<nd ref="1489637999" />
+		<nd ref="5243375211" />
+		<nd ref="356803042" />
+		<nd ref="1489638015" />
+		<nd ref="356803033" />
+		<nd ref="6594398685" />
+		<nd ref="5237860017" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Manuel Mendes" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663874" version="8" timestamp="2023-12-11T10:19:42Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="5237860016" />
+		<nd ref="1699747008" />
+		<nd ref="5237860019" />
+		<nd ref="5237860020" />
+		<nd ref="5237866334" />
+		<nd ref="5237866325" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Professor Egas Moniz" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663875" version="4" timestamp="2023-12-11T10:19:27Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="5237860017" />
+		<nd ref="5237860016" />
+		<nd ref="5237860015" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Aquilino Ribeiro" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663877" version="9" timestamp="2023-12-11T10:26:35Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="390064500" />
+		<nd ref="1489638033" />
+		<tag k="bridge" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="layer" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxweight:signed" v="no" />
+		<tag k="name" v="Rua Condessa Mumadona Dias" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135663878" version="13" timestamp="2023-12-11T10:26:30Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1489638033" />
+		<nd ref="10002075853" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Condessa Mumadona Dias" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135667682" version="11" timestamp="2023-01-04T11:15:15Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="534823201" />
+		<nd ref="1489449144" />
+		<nd ref="534823202" />
+		<nd ref="402743291" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135667683" version="13" timestamp="2023-06-20T19:26:43Z" changeset="137576865" uid="14455262" user="Tisila">
+		<nd ref="1489672247" />
+		<nd ref="5209961327" />
+		<nd ref="5209961326" />
+		<nd ref="1699746923" />
+		<nd ref="4861813560" />
+		<nd ref="4861813561" />
+		<nd ref="4792502076" />
+		<nd ref="1489672249" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua das Pombas" />
+		<tag k="noexit" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="paving_stones" />
+	</way>
+	<way id="135667684" version="8" timestamp="2022-11-10T08:30:51Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="1489672242" />
+		<nd ref="1489672387" />
+		<nd ref="1577958771" />
+		<nd ref="1489672240" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Mealhada" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135667686" version="10" timestamp="2023-12-20T12:18:02Z" changeset="145328810" uid="17417493" user="miguelovila">
+		<nd ref="1489672249" />
+		<nd ref="4861855578" />
+		<nd ref="4861813558" />
+		<nd ref="4792502077" />
+		<nd ref="390067351" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Freguesia da Glória" />
+		<tag k="sidewalk" v="left" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="135667755" version="5" timestamp="2022-11-07T09:03:31Z" changeset="128586932" uid="17417493" user="miguelovila">
+		<nd ref="1489673926" />
+		<nd ref="1489673928" />
+		<nd ref="1489673931" />
+		<nd ref="1489673949" />
+		<nd ref="1489673952" />
+		<nd ref="1489673955" />
+		<nd ref="1489673936" />
+		<nd ref="1443502547" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="144462184" version="18" timestamp="2022-12-16T18:22:05Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="2482439022" />
+		<nd ref="5216169261" />
+		<nd ref="4961599498" />
+		<nd ref="4961602533" />
+		<nd ref="4961602587" />
+		<nd ref="4961599499" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Estrada de Santiago" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="postal_code" v="3810-168" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:both:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="146530802" version="3" timestamp="2023-06-20T20:32:32Z" changeset="137578723" uid="14455262" user="Tisila">
+		<nd ref="1598129974" />
+		<nd ref="1598129964" />
+		<tag k="highway" v="residential" />
+		<tag k="name" v="Bairro da Misericórdia" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="146530803" version="5" timestamp="2023-06-20T20:32:33Z" changeset="137578723" uid="14455262" user="Tisila">
+		<nd ref="5237866322" />
+		<nd ref="1598129974" />
+		<nd ref="3935882215" />
+		<nd ref="3935881445" />
+		<nd ref="1598129962" />
+		<nd ref="1598129963" />
+		<nd ref="3935882216" />
+		<nd ref="1598129977" />
+		<nd ref="385011812" />
+		<tag k="highway" v="residential" />
+		<tag k="name" v="Bairro da Misericórdia" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="146530807" version="4" timestamp="2023-06-20T20:32:32Z" changeset="137578723" uid="14455262" user="Tisila">
+		<nd ref="5237866323" />
+		<nd ref="1598129964" />
+		<nd ref="1598129977" />
+		<tag k="highway" v="residential" />
+		<tag k="name" v="Bairro da Misericórdia" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="157721992" version="7" timestamp="2023-11-14T15:37:41Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="5237682246" />
+		<nd ref="4792502090" />
+		<nd ref="5237682242" />
+		<nd ref="4792502091" />
+		<nd ref="4792502092" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Infante Dom Henrique" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="160359765" version="10" timestamp="2023-11-15T12:20:42Z" changeset="144049233" uid="17417493" user="miguelovila">
+		<nd ref="1724107026" />
+		<nd ref="1724106748" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="no" />
+		<tag k="maxheight" v="3.5" />
+		<tag k="name" v="Rua da Aviação Naval" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+		<tag k="tunnel" v="building_passage" />
+	</way>
+	<way id="160359803" version="8" timestamp="2023-11-15T12:20:37Z" changeset="144049233" uid="17417493" user="miguelovila">
+		<nd ref="1724106748" />
+		<nd ref="5237682339" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Aviação Naval" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="172547669" version="14" timestamp="2023-12-11T16:25:42Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="10002075857" />
+		<nd ref="1699747014" />
+		<nd ref="1834409424" />
+		<nd ref="4801880724" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua dos Santos Mártires" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="172550490" version="5" timestamp="2023-12-11T10:19:37Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="356803033" />
+		<nd ref="5237860019" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Jaime Cortesão" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="172557273" version="13" timestamp="2023-12-11T16:28:27Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="4961599499" />
+		<nd ref="4961602588" />
+		<nd ref="5367963788" />
+		<nd ref="4961602526" />
+		<nd ref="2482439154" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Estrada de Santiago" />
+		<tag k="postal_code" v="3810-168" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="172557275" version="9" timestamp="2023-09-16T09:52:32Z" changeset="141333294" uid="5177" user="waldyrious">
+		<nd ref="385013743" />
+		<nd ref="4222131872" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="172557276" version="11" timestamp="2023-11-16T10:49:43Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="1834488377" />
+		<nd ref="689479797" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176451390" version="9" timestamp="2022-12-16T18:21:19Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="1489464502" />
+		<nd ref="534823201" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509600" version="15" timestamp="2024-02-08T22:10:32Z" changeset="147235046" uid="12612838" user="rui228">
+		<nd ref="391284648" />
+		<nd ref="5818226440" />
+		<nd ref="385011776" />
+		<nd ref="3631881350" />
+		<nd ref="2482439088" />
+		<nd ref="4961709768" />
+		<nd ref="2482439064" />
+		<nd ref="2482439110" />
+		<nd ref="4217004508" />
+		<nd ref="4961599480" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="separate" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Pega" />
+		<tag k="parking:left" v="street_side" />
+		<tag k="parking:left:orientation" v="parallel" />
+		<tag k="parking:right" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509601" version="7" timestamp="2023-06-15T20:58:48Z" changeset="137389806" uid="14455262" user="Tisila">
+		<nd ref="1870229789" />
+		<nd ref="2359427204" />
+		<nd ref="1870229834" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="name" v="Rua Doutor Elias Fernandes Pereira" />
+		<tag k="postal_code" v="3810-162" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509605" version="10" timestamp="2022-10-23T20:59:03Z" changeset="127973448" uid="17417493" user="miguelovila">
+		<nd ref="1487572496" />
+		<nd ref="1487572498" />
+		<nd ref="5366100007" />
+		<nd ref="1699728780" />
+		<nd ref="1487572506" />
+		<nd ref="5237682337" />
+		<nd ref="392954328" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="40" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="placement" v="left_of:1" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509606" version="18" timestamp="2023-05-25T07:16:21Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="4961599499" />
+		<nd ref="4961602585" />
+		<nd ref="4961602527" />
+		<nd ref="4319644365" />
+		<nd ref="4961602594" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="cycleway:right:surface" v="asphalt" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:both:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509608" version="10" timestamp="2023-12-11T10:25:13Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1870229807" />
+		<nd ref="1870229820" />
+		<nd ref="1870229816" />
+		<nd ref="1870229801" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua dos Lavadouros" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="3810-280" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="176509610" version="9" timestamp="2023-12-11T10:25:17Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1870229801" />
+		<nd ref="1870229790" />
+		<nd ref="3762643566" />
+		<nd ref="1650972564" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Nossa Senhora da Ajuda" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="3810-289" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="238044271" version="8" timestamp="2023-11-14T15:37:31Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="1406433704" />
+		<nd ref="5237682236" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Infante Dom Henrique" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="238119115" version="5" timestamp="2022-11-30T22:25:05Z" changeset="129577651" uid="17417493" user="miguelovila">
+		<nd ref="1406434277" />
+		<nd ref="5209906719" />
+		<nd ref="2459724926" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Viela da Fonte dos Amores" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="238119116" version="4" timestamp="2022-11-30T22:24:59Z" changeset="129577651" uid="17417493" user="miguelovila">
+		<nd ref="1406434277" />
+		<nd ref="1406433869" />
+		<nd ref="1406433879" />
+		<nd ref="1406433674" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Viela da Fonte dos Amores" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk:left" v="separate" />
+		<tag k="sidewalk:right" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="243898040" version="3" timestamp="2023-11-14T15:37:47Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="2512566349" />
+		<nd ref="2512566351" />
+		<nd ref="2512566352" />
+		<nd ref="4792502090" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="372714706" version="9" timestamp="2023-12-11T16:29:35Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="1870229821" />
+		<nd ref="2482439032" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Tiago" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="3810-168" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="372714708" version="8" timestamp="2023-12-11T16:29:41Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="1870229834" />
+		<nd ref="1870229821" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Tiago" />
+		<tag k="oneway" v="yes" />
+		<tag k="postal_code" v="3810-168" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="372714710" version="8" timestamp="2023-12-11T16:29:58Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="1870229801" />
+		<nd ref="3762643565" />
+		<nd ref="1870229828" />
+		<nd ref="1870229811" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Nossa Senhora da Ajuda" />
+		<tag k="postal_code" v="3810-289" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="411775060" version="6" timestamp="2023-10-20T12:13:25Z" changeset="142867553" uid="17417493" user="miguelovila">
+		<nd ref="5237682342" />
+		<nd ref="5237682341" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Aires Barbosa" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="411775061" version="10" timestamp="2023-11-15T12:19:31Z" changeset="144049233" uid="17417493" user="miguelovila">
+		<nd ref="5237682241" />
+		<nd ref="1487627539" />
+		<nd ref="4792539011" />
+		<nd ref="5237682239" />
+		<nd ref="5237682238" />
+		<nd ref="9635201037" />
+		<nd ref="1406433704" />
+		<nd ref="5237682228" />
+		<nd ref="5237682227" />
+		<nd ref="5237682226" />
+		<nd ref="5237682231" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Sebastião" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="411775913" version="6" timestamp="2022-11-10T08:30:37Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="1489672242" />
+		<nd ref="5407993802" />
+		<nd ref="1489672386" />
+		<nd ref="1443502554" />
+		<nd ref="1443502547" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="411818822" version="5" timestamp="2022-11-10T08:31:12Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="1489672248" />
+		<nd ref="1489672245" />
+		<nd ref="1489672242" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="415255553" version="4" timestamp="2022-11-15T21:49:28Z" changeset="128960845" uid="17417493" user="miguelovila">
+		<nd ref="5237682231" />
+		<nd ref="5237682225" />
+		<nd ref="5237682254" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Castro Matoso" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="420806588" version="6" timestamp="2023-12-11T10:20:14Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="4207124633" />
+		<nd ref="4207124634" />
+		<tag k="highway" v="secondary_link" />
+		<tag k="lit" v="yes" />
+		<tag k="oneway" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="422461215" version="9" timestamp="2023-11-16T10:49:46Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="1834488371" />
+		<nd ref="4222131873" />
+		<nd ref="2794875954" />
+		<nd ref="5367963787" />
+		<nd ref="1834488376" />
+		<nd ref="2794875953" />
+		<nd ref="2794875952" />
+		<nd ref="1834488377" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="smoothness" v="excellent" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="422461216" version="8" timestamp="2023-11-16T10:49:54Z" changeset="144089457" uid="17417493" user="miguelovila">
+		<nd ref="4222131872" />
+		<nd ref="4222131874" />
+		<nd ref="4222131875" />
+		<nd ref="4222131876" />
+		<nd ref="4222131877" />
+		<nd ref="4222131878" />
+		<nd ref="4222131879" />
+		<nd ref="4222131880" />
+		<nd ref="1834488371" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="smoothness" v="good" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="493286524" version="7" timestamp="2022-12-16T18:21:45Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="2482439022" />
+		<nd ref="1489676706" />
+		<nd ref="5366099993" />
+		<nd ref="5216169259" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="493286526" version="13" timestamp="2022-12-16T18:21:27Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="1489673926" />
+		<nd ref="5417734728" />
+		<nd ref="390067351" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="493286527" version="15" timestamp="2022-12-16T18:21:39Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="7347339526" />
+		<nd ref="5366099992" />
+		<nd ref="5366099991" />
+		<nd ref="1443502514" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="493286528" version="19" timestamp="2023-11-15T01:41:48Z" changeset="144032377" uid="17417493" user="miguelovila">
+		<nd ref="5366099994" />
+		<nd ref="5215817931" />
+		<nd ref="534789258" />
+		<nd ref="1443502582" />
+		<nd ref="5366100001" />
+		<nd ref="5366100000" />
+		<nd ref="5366099999" />
+		<nd ref="5366099998" />
+		<nd ref="5366099997" />
+		<nd ref="5366099996" />
+		<nd ref="534789259" />
+		<nd ref="1443502706" />
+		<nd ref="1443502732" />
+		<nd ref="1443502757" />
+		<nd ref="534789260" />
+		<nd ref="5366100004" />
+		<nd ref="5366100003" />
+		<nd ref="5366100002" />
+		<nd ref="5366100006" />
+		<nd ref="1443502797" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxheight" v="default" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="intermediate" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="494457224" version="10" timestamp="2022-12-16T18:21:23Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="390067351" />
+		<nd ref="5417734729" />
+		<nd ref="1489464502" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="504776812" version="9" timestamp="2023-09-16T09:52:30Z" changeset="141333294" uid="5177" user="waldyrious">
+		<nd ref="4948920625" />
+		<nd ref="1443502835" />
+		<nd ref="4948909151" />
+		<nd ref="1489637970" />
+		<nd ref="4948920626" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxheight" v="default" />
+		<tag k="maxspeed" v="30" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="smoothness" v="intermediate" />
+		<tag k="surface" v="sett" />
+	</way>
+	<way id="504776813" version="9" timestamp="2023-09-16T09:52:31Z" changeset="141333296" uid="5177" user="waldyrious">
+		<nd ref="4948920626" />
+		<nd ref="385013706" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="excellent" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="504776814" version="7" timestamp="2023-09-17T19:13:58Z" changeset="141395225" uid="5177" user="waldyrious">
+		<nd ref="4948920627" />
+		<nd ref="1487572481" />
+		<nd ref="4948920628" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxheight" v="default" />
+		<tag k="maxspeed" v="30" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="surface" v="sett" />
+	</way>
+	<way id="504776815" version="8" timestamp="2023-01-04T11:11:15Z" changeset="130861896" uid="17417493" user="miguelovila">
+		<nd ref="4948920628" />
+		<nd ref="5060914072" />
+		<nd ref="1487572489" />
+		<nd ref="1487572492" />
+		<nd ref="1712840825" />
+		<nd ref="4207124634" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Artur Ravara" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="506383763" version="3" timestamp="2022-11-10T08:30:20Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="1489672249" />
+		<nd ref="4792502068" />
+		<nd ref="1489672251" />
+		<nd ref="1489672250" />
+		<nd ref="1489672248" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua das Pombas" />
+		<tag k="noexit" v="yes" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="506500941" version="8" timestamp="2023-11-16T10:58:41Z" changeset="144089457" uid="17417493" user="miguelovila">
+		<nd ref="11354899403" />
+		<nd ref="689479579" />
+		<nd ref="689479578" />
+		<nd ref="689479576" />
+		<nd ref="689479606" />
+		<nd ref="689479604" />
+		<nd ref="4217004509" />
+		<nd ref="1834488365" />
+		<nd ref="1834488366" />
+		<nd ref="4969202346" />
+		<nd ref="1834488371" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="parking:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="538194726" version="7" timestamp="2023-05-25T07:12:15Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="2459724926" />
+		<nd ref="5209906715" />
+		<nd ref="1406434181" />
+		<tag k="cycleway:both" v="lane" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Doutor Mário Sacramento" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="538194731" version="6" timestamp="2022-12-16T18:21:12Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="1489449140" />
+		<nd ref="1406433108" />
+		<tag k="cycleway" v="shared_lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Praça Rainha Dona Leonor" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:both:surface" v="paved" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="538590273" version="6" timestamp="2023-12-11T10:20:18Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="1487572497" />
+		<nd ref="3596981901" />
+		<nd ref="4207124633" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="cycleway:right:oneway" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="smoothness" v="good" />
+		<tag k="source:maxspeed" v="sign" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="538984331" version="5" timestamp="2022-12-16T18:21:51Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="5216169259" />
+		<nd ref="5216169260" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+		<tag k="turn:lanes" v="left;through|through" />
+	</way>
+	<way id="538984332" version="4" timestamp="2022-12-16T18:22:11Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="5216169262" />
+		<nd ref="2482439022" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="538984333" version="4" timestamp="2022-12-16T18:21:57Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="5216169263" />
+		<nd ref="5216169262" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+		<tag k="turn:lanes" v="left;through|through" />
+	</way>
+	<way id="538984334" version="3" timestamp="2022-12-16T18:22:18Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="5216169262" />
+		<nd ref="1443502582" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="539599342" version="6" timestamp="2022-11-22T11:51:06Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="385011810" />
+		<nd ref="8702724248" />
+		<nd ref="10002075854" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk:right" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="539599343" version="8" timestamp="2022-11-22T11:51:01Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="385011810" />
+		<nd ref="5237860013" />
+		<nd ref="5237860014" />
+		<nd ref="5243375323" />
+		<nd ref="5237860015" />
+		<tag k="cycleway" v="lane" />
+		<tag k="cycleway:right:oneway" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="no" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk:left" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="541678017" version="2" timestamp="2023-11-14T15:37:37Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="5237682236" />
+		<nd ref="5237682235" />
+		<nd ref="5237682234" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Infante Dom Henrique" />
+		<tag k="oneway" v="yes" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="541678023" version="2" timestamp="2023-11-14T15:37:56Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="5237682246" />
+		<nd ref="5237682234" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Martinho" />
+		<tag k="oneway" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="541678027" version="4" timestamp="2023-11-14T15:37:50Z" changeset="144015835" uid="17417493" user="miguelovila">
+		<nd ref="5237682234" />
+		<nd ref="2512566348" />
+		<nd ref="1406433175" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Martinho" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="541678030" version="3" timestamp="2022-11-15T21:49:19Z" changeset="128960845" uid="17417493" user="miguelovila">
+		<nd ref="5237682254" />
+		<nd ref="5237682255" />
+		<nd ref="5237682232" />
+		<nd ref="1487627577" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Largo Luís de Camões" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="541678034" version="3" timestamp="2022-11-30T21:52:30Z" changeset="129577651" uid="17417493" user="miguelovila">
+		<nd ref="5237682231" />
+		<nd ref="5237682257" />
+		<nd ref="4792539020" />
+		<nd ref="5237682229" />
+		<nd ref="1487627577" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Eça de Queirós" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="556303397" version="7" timestamp="2022-12-16T18:21:31Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="390067138" />
+		<nd ref="1489464499" />
+		<nd ref="1489673926" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="556466050" version="8" timestamp="2023-12-11T10:24:17Z" changeset="144993439" uid="17417493" user="miguelovila">
+		<nd ref="4961599480" />
+		<nd ref="2712338469" />
+		<nd ref="1650972565" />
+		<nd ref="1650972564" />
+		<nd ref="1870229807" />
+		<nd ref="1650972563" />
+		<nd ref="2272009782" />
+		<nd ref="1650972562" />
+		<nd ref="11350116026" />
+		<tag k="access" v="yes" />
+		<tag k="addr:city" v="Aveiro" />
+		<tag k="addr:postcode" v="3810-168" />
+		<tag k="addr:street" v="Estrada de Santiago" />
+		<tag k="bicycle" v="yes" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="foot" v="yes" />
+		<tag k="highway" v="unclassified" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="motor_vehicle" v="yes" />
+		<tag k="name" v="Estrada de Santiago" />
+		<tag k="oneway" v="no" />
+		<tag k="sidewalk" v="left" />
+		<tag k="source" v="Bing" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="556492118" version="7" timestamp="2022-12-16T18:21:35Z" changeset="130166185" uid="17417493" user="miguelovila">
+		<nd ref="1443502514" />
+		<nd ref="390067138" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Associação Humanitária dos Bombeiros Voluntários de Aveiro" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="560794006" version="3" timestamp="2022-11-07T09:03:36Z" changeset="128586932" uid="17417493" user="miguelovila">
+		<nd ref="1443502547" />
+		<nd ref="1443502540" />
+		<nd ref="1443502531" />
+		<nd ref="1443502525" />
+		<nd ref="1443502520" />
+		<nd ref="1443502517" />
+		<nd ref="5366099995" />
+		<nd ref="1443502514" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="561021923" version="7" timestamp="2023-12-11T10:20:37Z" changeset="144993477" uid="17417493" user="miguelovila">
+		<nd ref="1487627547" />
+		<nd ref="5410016498" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua 4.ª Companhia Caçadores Especiais" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694040970" version="5" timestamp="2022-11-22T11:59:34Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="4031779427" />
+		<nd ref="392954328" />
+		<tag k="highway" v="tertiary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Praça do Milenário" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694100495" version="4" timestamp="2022-11-11T16:04:18Z" changeset="128783150" uid="17417493" user="miguelovila">
+		<nd ref="1487604399" />
+		<nd ref="6516319873" />
+		<nd ref="1487604382" />
+		<tag k="bicycle" v="no" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="layer" v="-1" />
+		<tag k="lit" v="24/7" />
+		<tag k="location" v="underground" />
+		<tag k="name" v="Avenida de Santa Joana" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk:right" v="no" />
+		<tag k="surface" v="asphalt" />
+		<tag k="tunnel" v="yes" />
+	</way>
+	<way id="694100496" version="4" timestamp="2022-11-22T11:59:29Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="392954328" />
+		<nd ref="5237682250" />
+		<nd ref="5237682251" />
+		<tag k="highway" v="tertiary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Praça do Milenário" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694100498" version="4" timestamp="2023-12-22T16:09:09Z" changeset="145412105" uid="17417493" user="miguelovila">
+		<nd ref="1406433175" />
+		<nd ref="5237682254" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Martinho" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source:width" v="ARCore" />
+		<tag k="surface" v="asphalt" />
+		<tag k="width" v="7" />
+	</way>
+	<way id="694100499" version="6" timestamp="2023-12-22T16:06:13Z" changeset="145412043" uid="17417493" user="miguelovila">
+		<nd ref="701015399" />
+		<nd ref="1487627547" />
+		<nd ref="1487627554" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Castro Matoso" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:lane:both" v="perpendicular" />
+		<tag k="parking:lane:both:perpendicular" v="painted_area_only" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694100500" version="6" timestamp="2023-11-15T12:15:54Z" changeset="144049233" uid="17417493" user="miguelovila">
+		<nd ref="701015399" />
+		<nd ref="5409302994" />
+		<nd ref="1487627536" />
+		<nd ref="5409307683" />
+		<nd ref="5409307684" />
+		<nd ref="5409307678" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida Araújo e Silva" />
+		<tag k="oneway" v="no" />
+		<tag k="parking:left" v="no" />
+		<tag k="parking:right" v="street_side" />
+		<tag k="parking:right:orientation" v="parallel" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694100501" version="7" timestamp="2023-05-25T07:12:44Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="402744134" />
+		<nd ref="2509174417" />
+		<nd ref="2509174418" />
+		<nd ref="1406433574" />
+		<nd ref="2509174406" />
+		<nd ref="402744131" />
+		<nd ref="1406433459" />
+		<nd ref="402744130" />
+		<nd ref="2509174408" />
+		<nd ref="402744128" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="694100502" version="7" timestamp="2023-05-25T07:12:56Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="402744128" />
+		<nd ref="2509174410" />
+		<nd ref="1406433375" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="tertiary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="785972279" version="5" timestamp="2022-11-10T08:34:30Z" changeset="128720839" uid="17417493" user="miguelovila">
+		<nd ref="9920619439" />
+		<nd ref="1443502513" />
+		<nd ref="1489672240" />
+		<nd ref="5215817930" />
+		<nd ref="1443502561" />
+		<nd ref="1443502575" />
+		<nd ref="1443502579" />
+		<nd ref="1443502583" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="785972280" version="16" timestamp="2022-11-07T09:05:59Z" changeset="128586932" uid="17417493" user="miguelovila">
+		<nd ref="7347339511" />
+		<nd ref="9920619446" />
+		<nd ref="5366334853" />
+		<nd ref="7347339513" />
+		<nd ref="9920619444" />
+		<nd ref="5216169260" />
+		<nd ref="9920619443" />
+		<nd ref="9920619445" />
+		<nd ref="7460465646" />
+		<nd ref="7347339512" />
+		<nd ref="7347339522" />
+		<nd ref="9572616954" />
+		<nd ref="9572616955" />
+		<nd ref="7370917811" />
+		<nd ref="7347339524" />
+		<nd ref="7347339519" />
+		<nd ref="7347339518" />
+		<nd ref="7347339517" />
+		<nd ref="7347339523" />
+		<nd ref="7347339526" />
+		<nd ref="7347339515" />
+		<nd ref="7347339511" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="789117554" version="7" timestamp="2023-05-25T07:16:24Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="4961602594" />
+		<nd ref="4963498692" />
+		<nd ref="4961602583" />
+		<nd ref="4961410322" />
+		<nd ref="4963498695" />
+		<nd ref="4319644362" />
+		<nd ref="4319644355" />
+		<nd ref="4963498705" />
+		<nd ref="4961602581" />
+		<nd ref="1870229792" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="parking:lane:left" v="perpendicular" />
+		<tag k="parking:lane:left:perpendicular" v="street_side" />
+		<tag k="parking:lane:right" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="789117555" version="8" timestamp="2023-05-25T07:16:08Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="1870229792" />
+		<nd ref="4963498708" />
+		<nd ref="4963498717" />
+		<nd ref="4961602634" />
+		<nd ref="4961602633" />
+		<nd ref="1870229810" />
+		<nd ref="7460465642" />
+		<nd ref="4319644359" />
+		<nd ref="1870229786" />
+		<nd ref="4963498102" />
+		<nd ref="1870229808" />
+		<nd ref="1870229783" />
+		<nd ref="5137839955" />
+		<nd ref="1870229784" />
+		<nd ref="1870229822" />
+		<nd ref="1870229787" />
+		<nd ref="5137051313" />
+		<nd ref="4961602857" />
+		<nd ref="5137839954" />
+		<nd ref="1870229785" />
+		<nd ref="2359427205" />
+		<nd ref="2482439108" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="track" />
+		<tag k="cycleway:right:surface" v="asphalt" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:both:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="797673281" version="10" timestamp="2023-11-07T13:27:49Z" changeset="143736252" uid="17417493" user="miguelovila">
+		<nd ref="7901059042" />
+		<nd ref="9921463220" />
+		<nd ref="7460465642" />
+		<tag k="cycleway" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="815988679" version="4" timestamp="2023-01-03T13:48:33Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="5237860015" />
+		<nd ref="1699746992" />
+		<nd ref="689479626" />
+		<nd ref="4792540524" />
+		<nd ref="5237866321" />
+		<nd ref="5237866322" />
+		<nd ref="5237866323" />
+		<nd ref="385011812" />
+		<nd ref="1443502834" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="cycleway:right:oneway" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="no" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="959712387" version="5" timestamp="2023-06-15T17:07:23Z" changeset="137382105" uid="14455262" user="Tisila">
+		<nd ref="8879553215" />
+		<nd ref="8879553216" />
+		<tag k="highway" v="residential" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua do Sport Clube Beira-Mar" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1039561970" version="10" timestamp="2023-11-07T13:01:32Z" changeset="143736252" uid="17417493" user="miguelovila">
+		<nd ref="7901059042" />
+		<nd ref="9921463219" />
+		<nd ref="9572616955" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1047817447" version="2" timestamp="2022-08-01T10:37:32Z" changeset="124338244" uid="1978357" user="mecocivil">
+		<nd ref="5410016498" />
+		<nd ref="9635201035" />
+		<nd ref="9635201036" />
+		<nd ref="9635201037" />
+		<tag k="access" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="name" v="Rua 4.ª Companhia Caçadores Especiais" />
+	</way>
+	<way id="1082577672" version="7" timestamp="2023-11-07T13:01:40Z" changeset="143736252" uid="17417493" user="miguelovila">
+		<nd ref="7460465646" />
+		<nd ref="7460465645" />
+		<nd ref="7901059042" />
+		<tag k="cycleway:right" v="lane" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="oneway" v="yes" />
+		<tag k="oneway:bicycle" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1082914663" version="5" timestamp="2023-12-22T16:08:13Z" changeset="145412105" uid="17417493" user="miguelovila">
+		<nd ref="5237682231" />
+		<nd ref="5237682237" />
+		<nd ref="5237681220" />
+		<nd ref="1487627554" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Castro Matoso" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="both" />
+		<tag k="source:width" v="ARCore" />
+		<tag k="surface" v="asphalt" />
+		<tag k="width" v="5.4" />
+	</way>
+	<way id="1092110077" version="5" timestamp="2022-11-22T11:49:50Z" changeset="129235839" uid="17417493" user="miguelovila">
+		<nd ref="10002075852" />
+		<nd ref="10002075834" />
+		<nd ref="10002075835" />
+		<nd ref="10002075836" />
+		<nd ref="10002075837" />
+		<nd ref="10002075838" />
+		<nd ref="10002075839" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110078" version="7" timestamp="2023-01-03T13:49:27Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075853" />
+		<nd ref="10002075852" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Condessa Mumadona Dias" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110079" version="7" timestamp="2023-01-03T13:49:32Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075845" />
+		<nd ref="10002075853" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Condessa Mumadona Dias" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110080" version="7" timestamp="2023-12-11T16:26:11Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="10002075834" />
+		<nd ref="10002075855" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Pega" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110081" version="7" timestamp="2023-12-11T16:26:07Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="10002075855" />
+		<nd ref="10002075838" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua da Pega" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110082" version="7" timestamp="2023-01-03T13:49:09Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075854" />
+		<nd ref="10002075840" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110083" version="7" timestamp="2023-01-03T13:49:05Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075839" />
+		<nd ref="10002075854" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua Calouste Gulbenkian" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110084" version="7" timestamp="2023-12-11T16:25:57Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="10002075841" />
+		<nd ref="10002075857" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua dos Santos Mártires" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110085" version="7" timestamp="2023-12-11T16:26:00Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="10002075857" />
+		<nd ref="10002075844" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua dos Santos Mártires" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110086" version="6" timestamp="2023-01-03T13:49:17Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075840" />
+		<nd ref="10002075841" />
+		<nd ref="10002075842" />
+		<nd ref="10002075843" />
+		<nd ref="10002075844" />
+		<nd ref="10002075845" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110087" version="6" timestamp="2023-01-03T13:49:57Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075845" />
+		<nd ref="10002075846" />
+		<nd ref="10002075850" />
+		<nd ref="10002075851" />
+		<nd ref="10002075852" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1092110088" version="6" timestamp="2023-01-03T13:49:12Z" changeset="130827531" uid="17417493" user="miguelovila">
+		<nd ref="10002075839" />
+		<nd ref="10002075847" />
+		<nd ref="10002075848" />
+		<nd ref="10002075849" />
+		<nd ref="10002075840" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="sidewalk" v="no" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1116525809" version="3" timestamp="2023-11-16T10:49:16Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="10211976235" />
+		<nd ref="385013741" />
+		<nd ref="385013742" />
+		<nd ref="689479803" />
+		<nd ref="385013743" />
+		<nd ref="385013744" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rotunda do Hospital" />
+		<tag k="parking:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="no" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1116531584" version="2" timestamp="2023-12-22T16:11:10Z" changeset="145412105" uid="17417493" user="miguelovila">
+		<nd ref="10212032698" />
+		<nd ref="5237682245" />
+		<nd ref="4792502089" />
+		<nd ref="5237682246" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="1" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Rua de São Martinho" />
+		<tag k="oneway" v="yes" />
+		<tag k="sidewalk" v="right" />
+		<tag k="source:width" v="ARCore" />
+		<tag k="surface" v="asphalt" />
+		<tag k="width" v="3.4" />
+	</way>
+	<way id="1122735505" version="3" timestamp="2023-05-25T07:16:02Z" changeset="136528964" uid="17417493" user="miguelovila">
+		<nd ref="2482439108" />
+		<nd ref="4961599478" />
+		<nd ref="5137839956" />
+		<nd ref="4961599479" />
+		<nd ref="5137051317" />
+		<nd ref="5137051319" />
+		<nd ref="5367963789" />
+		<nd ref="2482439021" />
+		<tag k="cycleway:left" v="no" />
+		<tag k="cycleway:right" v="track" />
+		<tag k="cycleway:right:surface" v="asphalt" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rua de Santiago" />
+		<tag k="parking:lane:left" v="perpendicular" />
+		<tag k="parking:lane:left:perpendicular" v="street_side" />
+		<tag k="parking:lane:right" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="sidewalk:both:surface" v="paving_stones" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1126924947" version="2" timestamp="2023-11-15T12:20:01Z" changeset="144049363" uid="17417493" user="miguelovila">
+		<nd ref="5237682241" />
+		<nd ref="5368271756" />
+		<nd ref="5237682339" />
+		<tag k="cycleway:both" v="no" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida de Oita" />
+		<tag k="parking:lane:left" v="parallel" />
+		<tag k="parking:lane:left:parallel" v="painted_area_only" />
+		<tag k="parking:lane:right" v="no" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1186574116" version="1" timestamp="2023-07-02T19:10:37Z" changeset="138035737" uid="11113526" user="lalolan">
+		<nd ref="5366334853" />
+		<nd ref="9920619439" />
+		<nd ref="5366099994" />
+		<tag k="highway" v="secondary" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxheight" v="default" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Avenida da Universidade" />
+		<tag k="oneway" v="yes" />
+		<tag k="parking:lane:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1186574117" version="4" timestamp="2023-11-16T10:49:25Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="1487572477" />
+		<nd ref="385013706" />
+		<nd ref="385013749" />
+		<nd ref="385013750" />
+		<nd ref="385013751" />
+		<nd ref="10211976235" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rotunda do Hospital" />
+		<tag k="parking:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="good" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1186574118" version="4" timestamp="2023-11-16T10:49:11Z" changeset="144089439" uid="17417493" user="miguelovila">
+		<nd ref="1443502797" />
+		<nd ref="9694503532" />
+		<nd ref="385013747" />
+		<nd ref="385013748" />
+		<nd ref="1487572477" />
+		<tag k="highway" v="secondary" />
+		<tag k="junction" v="roundabout" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="maxspeed" v="50" />
+		<tag k="name" v="Rotunda do Hospital" />
+		<tag k="parking:both" v="no" />
+		<tag k="ref" v="EN 235" />
+		<tag k="sidewalk" v="right" />
+		<tag k="sidewalk:right:surface" v="sett" />
+		<tag k="smoothness" v="good" />
+		<tag k="source" v="gps" />
+		<tag k="surface" v="asphalt" />
+	</way>
+	<way id="1224303630" version="3" timestamp="2023-12-11T16:28:23Z" changeset="145006283" uid="17417493" user="miguelovila">
+		<nd ref="2482439154" />
+		<nd ref="4961602589" />
+		<nd ref="689479583" />
+		<nd ref="11354899403" />
+		<tag k="highway" v="residential" />
+		<tag k="lanes" v="2" />
+		<tag k="lit" v="yes" />
+		<tag k="name" v="Avenida João Jacinto Magalhães" />
+		<tag k="parking:left" v="no" />
+		<tag k="parking:right" v="street_side" />
+		<tag k="parking:right:orientation" v="parallel" />
+		<tag k="sidewalk" v="both" />
+		<tag k="surface" v="asphalt" />
+	</way>
+</osm>

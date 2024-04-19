@@ -1,0 +1,76 @@
+.card-vehicle {
+    background-color: #1c2548;
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: -15px;
+}
+
+.card-vehicle h2 {
+    margin: 0;  
+    padding-left: 55px;
+}
+
+.card-icon-vehicle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60px;
+    height: 100%;
+    background-color: #7191d2;
+    border-radius: 10px 50% 50% 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.card-icon-vehicle i {
+    color: #ffffff;
+    size: 30px;
+}
+
+.card-vehicle button {
+    background-color: #1c2548;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+   
+.card-vehicle button:hover {
+    background-color: #f47065;
+}
+   
+.card-vehicle button svg {
+    color: #fff;
+}
+
+.card-buttons-vehicle {
+    display: flex;
+}
+   
+.card-buttons-vehicle button {
+    border: none;
+    cursor: pointer;
+    padding: 10px 10px;
+}
+   
+.card-buttons-vehicle button:hover {
+    background-color: #f47065;
+}
+
+.card-buttons-vehicle button:first-child:hover {
+    background-color: #7740a4;
+}
+
+.card-buttons-vehicle button:first-child {
+    margin-right: 40px;
+}

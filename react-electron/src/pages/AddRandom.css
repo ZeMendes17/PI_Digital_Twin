@@ -1,0 +1,15 @@
+.random-page-container {
+    display: flex;
+    height: 100vh;
+    position: relative;
+}
+
+.random-page {
+    height: calc(100%- 90px);
+    flex: 3;
+    padding: 20px;
+    padding-top: 110px;
+    padding-left: 310px;
+    background-color: #d0daf0;
+    color: #ffffff;
+}

@@ -323,7 +323,8 @@ class SumoSimulation(object):
                 '--configuration-file', cfg_file,
                 '--step-length', str(step_length),
                 '--lateral-resolution', '0.25',
-                '--collision.check-junctions'
+                '--collision.check-junctions',
+                '--quit-on-end'
             ])
 
         else:

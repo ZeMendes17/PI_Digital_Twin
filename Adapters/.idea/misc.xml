@@ -3,7 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (SumoDemo)" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Adapters)" project-jdk-type="Python SDK" />
 </project>

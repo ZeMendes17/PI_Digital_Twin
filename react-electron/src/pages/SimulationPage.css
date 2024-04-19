@@ -1,0 +1,45 @@
+.simulation-page-container {
+    display: flex;
+    height: 100vh; 
+    position: relative;
+}
+
+.main-content {
+    height: calc(100%- 90px); 
+    flex: 3; 
+    padding: 20px;
+    padding-top: 110px; 
+    padding-left: 310px;
+    background-color: #d0daf0;
+    position: relative;
+}
+
+.simulate-button {
+    padding: 15px 30px;
+    background-color: #7191d2;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    bottom: 20px; 
+    right: 20px; 
+    font-size: 18px;
+}
+
+.simulate-button:hover {
+    background-color: #f47065;
+}
+
+
+
+.simulation-page {
+    height: calc(100%- 90px);
+    flex: 3;
+    padding: 20px;
+    padding-top: 110px;
+    padding-left: 310px;
+    background-color: #d0daf0;
+    color: #ffffff;
+}

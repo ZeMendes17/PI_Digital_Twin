@@ -1,0 +1,33 @@
+/* src/components/Navbar.css */
+
+.navbar {
+    background-color: rgb(40, 167, 69, 0.8);
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+    z-index: 101;
+    box-shadow: 0px 2px 10px #7191d2;
+}
+
+.navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar-logo h1 {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.navbar-links a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navbar-links a:hover {
+    color: #7191d2;
+}

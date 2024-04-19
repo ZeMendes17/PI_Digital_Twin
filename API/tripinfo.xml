@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-19 19:27:37 by Eclipse SUMO GUI Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="../Adapters/co_simulation/sumo_configuration/simple-map/aveiro.net.xml"/>
+        <route-files value="../Adapters/co_simulation/sumo_configuration/simple-map/carlavtypes.rou.xml,../Adapters/co_simulation/sumo_configuration/simple-map/simple-map.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+    </output>
+
+    <traci_server>
+        <remote-port value="39857"/>
+        <num-clients value="1"/>
+    </traci_server>
+
+    <gui_only>
+        <gui-settings-file value="../Adapters/co_simulation/sumo_configuration/simple-map/simple-map.view.xml"/>
+        <quit-on-end value="true"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="35015" depart="3.00" departLane="-5257_2" departPos="450.95" departSpeed="0.00" departDelay="-0.50" arrival="7.00" arrivalLane="-5257_2" arrivalPos="464.99" arrivalSpeed="9.68" duration="4.00" routeLength="14.04" waitingTime="0.00" waitingCount="0" stopTime="0.00" timeLoss="2.35" rerouteNo="0" devices="tripinfo_35015" vType="vehicle.audi.a2" speedFactor="1.01" vaporized=""/>
+</tripinfos>
