@@ -214,6 +214,18 @@ def run_3D():
     except subprocess.CalledProcessError as e:
         return jsonify({'error': e}), 500
 
+@app.route('/api/runLive3D', methods=['POST'])
+def run_Live3D():
+    try:
+        global processCarla
+        processCarla = subprocess.Popen(["./../Adapters/co_simulation/runCarla.sh"])
+        sleep(10)
+
+        global process3d
+        process3d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_3D.py"])
+        return jsonify({'message': 'Comando executado com sucesso'}), 200
+    except subprocess.CalledProcessError as e:
+        return jsonify({'error': e}), 500
 
 @app.route('/api/run2D', methods=['POST'])
 def run_2D():
@@ -226,6 +238,16 @@ def run_2D():
     except subprocess.CalledProcessError as e:
         return jsonify({'error': e}), 500
 
+@app.route('/api/runLive2D', methods=['POST'])
+def run_Live2D():
+    try:
+        global process2d
+        process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/live_simulation2D.py"])
+        global blocked_roundabouts
+        blocked_roundabouts = []
+        return jsonify({'message': 'Comando iniciado com sucesso'}), 200
+    except subprocess.CalledProcessError as e:
+        return jsonify({'error': e}), 500
 
 @app.route('/api/addRandomTraffic', methods=['POST'])
 def add_random_traffic():
