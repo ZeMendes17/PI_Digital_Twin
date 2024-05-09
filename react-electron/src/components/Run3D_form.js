@@ -12,9 +12,24 @@ const Run3D_form = () => {
         event.preventDefault();  
 
         try {
-            const response = await axios.post(`${API}/run3D`);
+            let response = null;
+            if (selectedOption === 'liveData')
+                response = await axios.post(`${API}/run3D?live=True`);
+
+            else if (selectedOption === 'realData')
+                response = await axios.post(`${API}/run3D?realdata=True`, {
+                    day: selectedDay,
+                    startTime: startTime,
+                    endTime: endTime
+                });
+
+
+            else
+                response = await axios.post(`${API}/run3D`);
+
+
             if (response.status === 200) {
-                console.log('Simulação 3D iniciada com sucesso:', response.data);
+                console.log('Solicitação enviada com sucesso:', response.data);
                 window.location.href = '/simulation';
             }
         } catch (error) {

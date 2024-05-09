@@ -8,13 +8,32 @@ const Run2D_form = () => {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
+        console.log(selectedOption);
 
         try {
-            const response = await axios.post(`${API}/run2D`);
+            let response = null;
+            if (selectedOption === 'liveData')
+                response = await axios.post(`${API}/run2D?live=True`);
+
+            else if (selectedOption === 'realData')
+                response = await axios.post(`${API}/run2D?realdata=True`, {
+                    day: selectedDay,
+                    startTime: startTime,
+                    endTime: endTime
+                });
+
+            else
+                response = await axios.post(`${API}/run2D`);
+
+
             if (response.status === 200) {
                 console.log('Solicitação enviada com sucesso:', response.data);
                 window.location.href = '/simulation';
             }
+
+
+
+
         } catch (error) {
             console.error('Erro ao enviar a solicitação:', error);
         }
