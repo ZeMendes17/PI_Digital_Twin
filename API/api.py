@@ -18,6 +18,10 @@ from flask_jwt_extended import decode_token, JWTManager, jwt_required, create_ac
 from werkzeug.security import check_password_hash
 from pymongo import MongoClient
 
+import requests
+from time import sleep
+import xml.etree.ElementTree as ET
+
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
 CORS(app, resources={r"/*": {"origins": "*"}})
@@ -54,6 +58,8 @@ blocked_roundabouts = []
 def api():
     return jsonify({'data': 'Hello, World!'})
 
+
+# ENDPOINTS PARA UTILIZADORES --------------------------------------------------------------------------------------------------------------------------
 
 @app.route('/users', methods=['POST'])
 def create_user():
@@ -199,9 +205,12 @@ def not_found(error=None):
     return response
 
 
+# ENDPOINTS PARA SIMULAÇÃO -------------------------------------------------------------------------------------------------------------------------------
+
 @app.route('/api/run3D', methods=['POST'])
 def run_3D():
     try:
+
         live = request.args.get('live', default=False)
         real_data = request.args.get('realdata', default=False)
         global processCarla
@@ -215,21 +224,33 @@ def run_3D():
 
         if real_data == "True":
             data = request.json
+            entities = data.get('entities', [])
             day = data.get('day')
             start_time = data.get('startTime')
             end_time = data.get('endTime')
 
             # Aqui você pode usar os dados recebidos como desejar
-            print(f"Recebido os seguintes dados: day={day}, startTime={start_time}, endTime={end_time}")
+            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={endTime}")
 
-            #TODO: Implementar a lógica para simular o tráfego real
+            results = []
 
+            if real_data:
+                # Fazer requisições individuais para cada tipo de entidade
+                for entity in entities:
+                    response = fetch_sth_comet_data(entity, day, start_time, end_time)
+                    if response.status_code == 200:
+                        results.append(response.json())
+                    else:
+                        print(f"Falha ao obter dados para {entity}: {response.text}")
 
-        processCarla = subprocess.Popen(["./../Adapters/co_simulation/runCarla.sh"])
-        sleep(10)
+                return jsonify({'message': 'Dados históricos obtidos com sucesso', 'data': results}), 200
+            
+            processCarla = subprocess.Popen(["./../Adapters/co_simulation/runCarla.sh"])
+            sleep(10)
 
-        process3d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_3D.py"])
-        return jsonify({'message': 'Comando executado com sucesso'}), 200
+            process3d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_3D.py"])
+            return jsonify({'message': 'Comando executado com sucesso'}), 200
+
     except subprocess.CalledProcessError as e:
         return jsonify({'error': e}), 500
 
@@ -251,23 +272,97 @@ def run_2D():
 
         if real_data == "True":
             data = request.json
+            entities = data.get('entities', [])
             day = data.get('day')
             start_time = data.get('startTime')
             end_time = data.get('endTime')
 
             # Aqui você pode usar os dados recebidos como desejar
-            print(f"Recebido os seguintes dados: day={day}, startTime={start_time}, endTime={end_time}")
+            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={endTime}")
 
-            #TODO: Implementar a lógica para simular o tráfego real
+            results = []
 
+            if real_data:
+                # Fazer requisições individuais para cada tipo de entidade
+                for entity in entities:
+                    response = fetch_sth_comet_data(entity, day, start_time, end_time)
+                    if response.status_code == 200:
+                        results.append(response.json())
+                    else:
+                        print(f"Falha ao obter dados para {entity}: {response.text}")
 
+                return jsonify({'message': 'Dados históricos obtidos com sucesso', 'data': results}), 200
 
         process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_2D.py"])
         blocked_roundabouts = []
         return jsonify({'message': 'Comando iniciado com sucesso'}), 200
     except subprocess.CalledProcessError as e:
         return jsonify({'error': str(e)}), 500
+    
+def fetch_sth_comet_data(entity, day, start_time, end_time):
+    base_url = 'http://10.0.23.112:30866/STH/v2/entities/all/attrs/all'
+    headers = {
+        'fiware-service': 'default',
+        'fiware-servicepath': '/atcll'
+    }
+    params = {
+        'type': entity,
+        'dateFrom': f"{day}T{start_time}:00.000Z",
+        'dateTo': f"{day}T{end_time}:59.999Z"
+    }
+    response = requests.get(base_url, headers=headers, params=params)
+    return response
 
+def parse_json_to_xml(json_data):
+    # Criação do elemento raiz XML
+    root = ET.Element("Simulation")
+
+    # Processar cada item na lista 'value' do JSON
+    for item in json_data['value']:
+        # Criação de um elemento para cada entidade
+        entity_elem = ET.SubElement(root, "Entity", id=item['entityId'], type=item['entityType'])
+
+        # Adicionar atributos de cada entidade como subelementos
+        for attr_key in ['speed', 'acceleration', 'confidence', 'detectedID', 'hasDevices', 'heading', 'length', 'location', 'observedBy']:
+            # Verificar se o atributo existe para a entidade atual
+            if attr_key in item:
+                attr = item[attr_key]
+                ET.SubElement(entity_elem, attr_key, type=attr['attrType']).text = str(attr['attrValue'])
+
+        # Adicionando o recvTime como um atributo ao elemento da entidade
+        entity_elem.set('recvTime', item['recvTime'])
+
+    # Converter a árvore XML em uma string e retornar
+    tree = ET.ElementTree(root)
+    tree.write("output_simulation_data.xml")
+    print("XML file 'output_simulation_data.xml' has been created.")
+
+
+# Simulação de uma resposta JSON da API
+# json_response = {
+#     "type": "StructuredValue",
+#     "value": [
+#         {
+#             "_id": "663d0b77c2b3237c183ffc7f",
+#             "entityId": "urn:ngsi-ld:Car:210873294",
+#             "entityType": "Car",
+#             "speed": {"attrType": "Float", "attrValue": 0},
+#             "acceleration": {"attrType": "Float", "attrValue": 0},
+#             "confidence": {"attrType": "Float", "attrValue": 84},
+#             "detectedID": {"attrType": "Text", "attrValue": "214971223"},
+#             "hasDevices": {"attrType": "Array", "attrValue": []},
+#             "heading": {"attrType": "Float", "attrValue": 0},
+#             "length": {"attrType": "Float", "attrValue": 0},
+#             "location": {"attrType": "geo:json", "attrValue": {"type": "Point", "coordinates": [-8.648474589, 40.63233725]}},
+#             "observedBy": {"attrType": "Relationship", "attrValue": "urn:ngsi-ld:SlpCamera:033"},
+#             "recvTime": "2024-05-09T17:44:23.492Z"
+#         }
+#         # Pode adicionar mais entidades aqui
+#     ]
+# }
+
+# Exemplo de uso da função
+# parse_json_to_xml(json_response)
 
 
 @app.route('/api/addRandomTraffic', methods=['POST'])

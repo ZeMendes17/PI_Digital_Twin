@@ -8,32 +8,28 @@ const Run2D_form = () => {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
-        console.log(selectedOption);
+        console.log(selectedOption, selectedEntities);
 
         try {
             let response = null;
             if (selectedOption === 'liveData')
-                response = await axios.post(`${API}/run2D?live=True`);
+                response = await axios.post(`${API}/run2D?live=True`, { entities: selectedEntities });
 
             else if (selectedOption === 'realData')
                 response = await axios.post(`${API}/run2D?realdata=True`, {
+                    entities: selectedEntities,
                     day: selectedDay,
                     startTime: startTime,
                     endTime: endTime
                 });
 
             else
-                response = await axios.post(`${API}/run2D`);
-
+                response = await axios.post(`${API}/run2D`, { entities: selectedEntities });
 
             if (response.status === 200) {
                 console.log('Solicitação enviada com sucesso:', response.data);
                 window.location.href = '/simulation';
             }
-
-
-
-
         } catch (error) {
             console.error('Erro ao enviar a solicitação:', error);
         }
@@ -44,6 +40,9 @@ const Run2D_form = () => {
     const [startTime, setStartTime] = useState('');
     const [endTime, setEndTime] = useState('');
     const [maxDate, setmaxDate] = useState('');
+    const [selectedEntities, setSelectedEntities] = useState([]);
+
+    const entityTypes = ['Car', 'Bus', 'Bicycle', 'Motorcycle', 'Person'];
 
     useEffect(() => {
         const currentDate = new Date();
@@ -70,6 +69,18 @@ const Run2D_form = () => {
         } else {
             setEndTime(event.target.value);
         }
+    };
+
+    const handleEntityChange = (event) => {
+        const checked = event.target.checked;
+        const value = event.target.value;
+        setSelectedEntities(prev => {
+            if (checked && !prev.includes(value)) {
+                return [...prev, value];
+            } else {
+                return prev.filter(item => item !== value);
+            }
+        });
     };
 
     return (
@@ -120,6 +131,21 @@ const Run2D_form = () => {
 
                         {selectedOption === 'realData' && (
                             <div>
+                                <div className="mb-4">
+                                    {entityTypes.map((type) => (
+                                        <div key={type} className="flex items-center mb-2">
+                                            <input
+                                                type="checkbox"
+                                                id={type}
+                                                value={type}
+                                                checked={selectedEntities.includes(type)}
+                                                onChange={handleEntityChange}
+                                                className="form-checkbox text-blue-500 h-5 w-5"
+                                            />
+                                            <label htmlFor={type} className="ml-2 text-sm">{type}</label>
+                                        </div>
+                                    ))}
+                                </div>
                                 <div className="mb-4">
                                     <label htmlFor="day" className="block text-sm font-medium text-gray-700">Day:</label>
                                     <input
