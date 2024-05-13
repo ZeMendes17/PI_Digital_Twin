@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  sumo:
+    build:
+      context: docker-sumo
+      dockerfile: Dockerfile
+    container_name: sumo
+    environment:
+      - DISPLAY  # Set the DISPLAY environment variable
+    volumes:
+      - /etc/group:/etc/group:ro
+      - /etc/passwd:/etc/passwd:ro
+      - /etc/shadow:/etc/shadow:ro
+      - /etc/sudoers.d:/etc/sudoers.d:ro
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+    user: "${USER}"  # Set the user inside the container (assuming $USER is defined in the environment)
+    stdin_open: true  # Open stdin to allow interactive mode
+    tty: true  # Allocate a pseudo-TTY for interactive use
