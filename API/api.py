@@ -277,15 +277,14 @@ def run_2D():
             start_time = data.get('startTime')
             end_time = data.get('endTime')
 
-            # Aqui você pode usar os dados recebidos como desejar
-            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
+            print(f" DENTRO DO RUN2D: Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
 
             results = []
 
             if real_data:
-                # Fazer requisições individuais para cada tipo de entidade
+                
                 for entity in entities:
-                    print(f"Requisitando dados para {entity}")
+                    print(f" OIIIIIIIIIIIIIIIIIIIIII Requisitando dados para {entity}")
                     response = fetch_sth_comet_data(entity, day, start_time, end_time)
                     if response.status_code == 200:
                         results.append(response.json())
@@ -293,11 +292,14 @@ def run_2D():
                     else:
                         print(f"Falha ao obter dados para {entity}: {response.text}")
 
+                parse_json_to_xml(response.json())
+                print("DENTRO DA FUNCAO 2D: XML file 'output_simulation_data.xml' has been created.")
+
                 return jsonify({'message': 'Dados históricos obtidos com sucesso', 'data': results}), 200
 
         process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_2D.py"])
         blocked_roundabouts = []
-        
+
         return jsonify({'message': 'Comando iniciado com sucesso'}), 200
     
     except subprocess.CalledProcessError as e:
@@ -317,33 +319,29 @@ def fetch_sth_comet_data(entity, day, start_time, end_time, lastN=10):
     }
     response = requests.get(base_url, headers=headers, params=params)
 
-    print(f"Requisição para {entity} retornou {response.text}")
+    print(f"DENTRO DO FETCH: Requisição para {entity} retornou {response.text}")
 
     return response
 
 def parse_json_to_xml(json_data):
-    # Criação do elemento raiz XML
+
     root = ET.Element("Simulation")
 
-    # Processar cada item na lista 'value' do JSON
     for item in json_data['value']:
-        # Criação de um elemento para cada entidade
+
         entity_elem = ET.SubElement(root, "Entity", id=item['entityId'], type=item['entityType'])
 
-        # Adicionar atributos de cada entidade como subelementos
         for attr_key in ['speed', 'acceleration', 'confidence', 'detectedID', 'hasDevices', 'heading', 'length', 'location', 'observedBy']:
-            # Verificar se o atributo existe para a entidade atual
+
             if attr_key in item:
                 attr = item[attr_key]
                 ET.SubElement(entity_elem, attr_key, type=attr['attrType']).text = str(attr['attrValue'])
 
-        # Adicionando o recvTime como um atributo ao elemento da entidade
         entity_elem.set('recvTime', item['recvTime'])
 
-    # Converter a árvore XML em uma string e retornar
     tree = ET.ElementTree(root)
     tree.write("output_simulation_data.xml")
-    print("XML file 'output_simulation_data.xml' has been created.")
+    print("DENTRO DA FUNÇÂO DE PARSE: XML file 'output_simulation_data.xml' has been created.")
 
 
 # Simulação de uma resposta JSON da API
