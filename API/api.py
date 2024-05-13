@@ -230,7 +230,7 @@ def run_3D():
             end_time = data.get('endTime')
 
             # Aqui você pode usar os dados recebidos como desejar
-            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={endTime}")
+            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
 
             results = []
 
@@ -278,16 +278,18 @@ def run_2D():
             end_time = data.get('endTime')
 
             # Aqui você pode usar os dados recebidos como desejar
-            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={endTime}")
+            print(f"Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
 
             results = []
 
             if real_data:
                 # Fazer requisições individuais para cada tipo de entidade
                 for entity in entities:
+                    print(f"Requisitando dados para {entity}")
                     response = fetch_sth_comet_data(entity, day, start_time, end_time)
                     if response.status_code == 200:
                         results.append(response.json())
+                        print("Entrei aqui")
                     else:
                         print(f"Falha ao obter dados para {entity}: {response.text}")
 
@@ -295,11 +297,13 @@ def run_2D():
 
         process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_2D.py"])
         blocked_roundabouts = []
+        
         return jsonify({'message': 'Comando iniciado com sucesso'}), 200
+    
     except subprocess.CalledProcessError as e:
         return jsonify({'error': str(e)}), 500
     
-def fetch_sth_comet_data(entity, day, start_time, end_time):
+def fetch_sth_comet_data(entity, day, start_time, end_time, lastN=10):
     base_url = 'http://10.0.23.112:30866/STH/v2/entities/all/attrs/all'
     headers = {
         'fiware-service': 'default',
@@ -307,10 +311,14 @@ def fetch_sth_comet_data(entity, day, start_time, end_time):
     }
     params = {
         'type': entity,
+        'lastN': lastN,
         'dateFrom': f"{day}T{start_time}:00.000Z",
         'dateTo': f"{day}T{end_time}:59.999Z"
     }
     response = requests.get(base_url, headers=headers, params=params)
+
+    print(f"Requisição para {entity} retornou {response.text}")
+
     return response
 
 def parse_json_to_xml(json_data):
