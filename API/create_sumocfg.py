@@ -1,5 +1,8 @@
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import rtree
+import pyproj
+import sumolib
 
 json_data = {"type": "StructuredValue", "value": [
     {"_id": "6642127a58306f695e708dce", "entityId": "urn:ngsi-ld:Car:16005521", "entityType": "Car",
@@ -45,20 +48,31 @@ def parse_json_to_xml(start_time):
         "xsi:noNamespaceSchemaLocation": "http://sumo.dlr.de/xsd/routes_file.xsd"
     })
 
+    net = sumolib.net.readNet(
+        "../Adapters/co_simulation/sumo_configuration/simple-map/UA.net.xml",
+        withInternal=True)
+
     for item in json_data['value']:
 
-        if item['entityType'] == 'Car':
-            entity_elem = ET.SubElement(root, "vehicle", id=item['entityId'], type="vehicle.dodge.charger_police_2020",
-                            depart=calculate_depart_time(start_time,item['recvTime']))
+        if item['attrName'] == 'location':
+            coord = net.convertLonLat2XY(lon=-8.656930, lat =40.634771)
+            edges = net.getNeighboringEdges(coord[0],coord[1]) # TODO: use traci
+            print("aq",edges)
 
-        for attr_key in ['speed', 'acceleration', 'confidence', 'detectedID', 'hasDevices', 'heading', 'length',
-                         'location', 'observedBy']:
 
-            if attr_key in item:
-                attr = item[attr_key]
-                ET.SubElement(entity_elem, attr_key, type=attr['attrType']).text = str(attr['attrValue'])
 
-        #entity_elem.set('recvTime', item['recvTime'])
+       # if item['entityType'] == 'Car':
+       #     entity_elem = ET.SubElement(root, "vehicle", id=item['entityId'], type="vehicle.dodge.charger_police_2020",
+       #                     depart=calculate_depart_time(start_time,item['recvTime']))
+#
+       # for attr_key in ['speed', 'acceleration', 'confidence', 'detectedID', 'hasDevices', 'heading', 'length',
+       #                  'location', 'observedBy']:
+#
+       #     if attr_key in item:
+       #         attr = item[attr_key]
+       #         ET.SubElement(entity_elem, attr_key, type=attr['attrType']).text = str(attr['attrValue'])
+#
+       # #entity_elem.set('recvTime', item['recvTime'])
 
     tree = ET.ElementTree(root)
     with open("output.xml", "wb") as f:
