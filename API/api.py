@@ -22,6 +22,8 @@ import requests
 from time import sleep
 import xml.etree.ElementTree as ET
 
+from create_sumocfg import parse_json_to_xml
+
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
 CORS(app, resources={r"/*": {"origins": "*"}})
@@ -264,38 +266,35 @@ def run_2D():
         real_data = request.args.get('realdata', default=False)
         global process2d
         global blocked_roundabouts
+
         if live == "True":
             process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/live_simulation2D.py"])
             blocked_roundabouts = []
             return jsonify({'message': 'Comando iniciado com sucesso'}), 200
 
 
-        if real_data == "True":
+        elif real_data == "True":
             data = request.json
             entities = data.get('entities', [])
-            day = data.get('day')
+            #day = data.get('day')
             start_time = data.get('startTime')
             end_time = data.get('endTime')
 
-            print(f" DENTRO DO RUN2D: Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
+            #print(f" DENTRO DO RUN2D: Recebido os seguintes dados: entities={entities}, day={day}, startTime={start_time}, endTime={end_time}")
 
             results = []
 
-            if real_data:
-                
-                for entity in entities:
-                    print(f" OIIIIIIIIIIIIIIIIIIIIII Requisitando dados para {entity}")
-                    response = fetch_sth_comet_data(entity, day, start_time, end_time)
-                    if response.status_code == 200:
-                        results.append(response.json())
-                        print("Entrei aqui")
-                    else:
-                        print(f"Falha ao obter dados para {entity}: {response.text}")
+            #for entity in entities:
+            #    response = fetch_sth_comet_data(entity, day, start_time, end_time)
+            #    if response.status_code == 200:
+            #        results.append(response.json())
+            #    else:
+            #        print(f"Falha ao obter dados para {entity}: {response.text}")
 
-                parse_json_to_xml(response.json())
-                print("DENTRO DA FUNCAO 2D: XML file 'output_simulation_data.xml' has been created.")
+            #parse_json_to_xml(response.json())
+            parse_json_to_xml(start_time)
 
-                return jsonify({'message': 'Dados históricos obtidos com sucesso', 'data': results}), 200
+            #return jsonify({'message': 'Dados históricos obtidos com sucesso', 'data': results}), 200
 
         process2d = subprocess.Popen(["python3", "../Adapters/co_simulation/simulation_2D.py"])
         blocked_roundabouts = []
@@ -323,25 +322,7 @@ def fetch_sth_comet_data(entity, day, start_time, end_time, lastN=10):
 
     return response
 
-def parse_json_to_xml(json_data):
 
-    root = ET.Element("Simulation")
-
-    for item in json_data['value']:
-
-        entity_elem = ET.SubElement(root, "Entity", id=item['entityId'], type=item['entityType'])
-
-        for attr_key in ['speed', 'acceleration', 'confidence', 'detectedID', 'hasDevices', 'heading', 'length', 'location', 'observedBy']:
-
-            if attr_key in item:
-                attr = item[attr_key]
-                ET.SubElement(entity_elem, attr_key, type=attr['attrType']).text = str(attr['attrValue'])
-
-        entity_elem.set('recvTime', item['recvTime'])
-
-    tree = ET.ElementTree(root)
-    tree.write("output_simulation_data.xml")
-    print("DENTRO DA FUNÇÂO DE PARSE: XML file 'output_simulation_data.xml' has been created.")
 
 
 # Simulação de uma resposta JSON da API

@@ -15,13 +15,24 @@ const Run2D_form = () => {
             if (selectedOption === 'liveData')
                 response = await axios.post(`${API}/run2D?live=True`, { entities: selectedEntities });
 
-            else if (selectedOption === 'realData')
+            else if (selectedOption === 'realData') {
+
+                const startDateTimeString = `${selectedDay}T${startTime}:00.000Z`;
+                const endDateTimeString = `${selectedDay}T${endTime}:00.000Z`;
+
+                const startDateTime = new Date(startDateTimeString);
+                const endDateTime = new Date(endDateTimeString);
+
+                const formattedStartTime = startDateTime.toISOString();
+                const formattedEndTime = endDateTime.toISOString();
+
+
                 response = await axios.post(`${API}/run2D?realdata=True`, {
                     entities: selectedEntities,
-                    day: selectedDay,
-                    startTime: startTime,
-                    endTime: endTime
+                    startTime: formattedStartTime,
+                    endTime: formattedEndTime
                 });
+            }
 
             else
                 response = await axios.post(`${API}/run2D`, { entities: selectedEntities });

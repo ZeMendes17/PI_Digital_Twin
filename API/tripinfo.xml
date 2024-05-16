@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2024-05-08 14:01:20 by Eclipse SUMO GUI Version 1.19.0
+<!-- generated on 2024-05-14 23:22:59 by Eclipse SUMO GUI Version 1.19.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
@@ -13,7 +13,7 @@
     </output>
 
     <traci_server>
-        <remote-port value="47045"/>
+        <remote-port value="39135"/>
         <num-clients value="1"/>
     </traci_server>
 
@@ -25,6 +25,4 @@
 -->
 
 <tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
-    <tripinfo id="0" depart="3.00" departLane="-1466_1" departPos="5.34" departSpeed="0.00" departDelay="0.00" arrival="12.00" arrivalLane="-1465_1" arrivalPos="11.38" arrivalSpeed="13.75" duration="9.00" routeLength="73.18" waitingTime="0.00" waitingCount="0" stopTime="0.00" timeLoss="3.49" rerouteNo="0" devices="tripinfo_0" vType="vehicle.dodge.charger_police_2020" speedFactor="1.06" vaporized=""/>
-    <tripinfo id="randomCar_1715173289978301090" depart="14.00" departLane="-1595_1" departPos="5.34" departSpeed="0.00" departDelay="0.00" arrival="46.00" arrivalLane="-1628_1" arrivalPos="30.67" arrivalSpeed="12.23" duration="32.00" routeLength="342.75" waitingTime="0.00" waitingCount="0" stopTime="0.00" timeLoss="7.67" rerouteNo="0" devices="tripinfo_randomCar_1715173289978301090" vType="vehicle.dodge.charger_police_2020" speedFactor="1.09" vaporized=""/>
 </tripinfos>
